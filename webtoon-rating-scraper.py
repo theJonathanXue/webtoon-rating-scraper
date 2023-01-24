@@ -28,8 +28,7 @@ def get_all_webtoons_data():
     # Find all the webtoon cards in the webpage
     webtoons = soup.find_all('a', class_='card_item')
 
-    test = [webtoons[0]]
-    for webtoon in test:
+    for webtoon in webtoons:
         webtoonUrl = webtoon['href']
         webtoonResponse = requests.get(webtoonUrl)
         webtoonSoup = BeautifulSoup(webtoonResponse.text, 'html.parser')
