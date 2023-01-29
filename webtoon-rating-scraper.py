@@ -6,9 +6,9 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import logging
 import json
 import os
-
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'}
 options = webdriver.ChromeOptions()
@@ -19,6 +19,7 @@ options.add_argument('--disable-web-security')
 options.add_argument('--allow-running-insecure-content')
 options.add_argument('--allow-cross-origin-auth-prompt')
 browser = webdriver.Chrome(options=options)
+logging.basicConfig(filename='errors.log', level=logging.ERROR)
 
 # attempt with selenium
 # medium article that helped: https://medium.com/@dian.octaviani/method-1-4-automation-of-google-image-scraping-using-selenium-3972ea3aa248
@@ -26,7 +27,7 @@ def get_google_img(search_query):
     # Open browser to begin search
     try:
         search_url = f'https://www.google.com/search?q={search_query}&source=lnms&tbm=isch'
-
+        
         browser.get(search_url)
 
         # XPath for the 1st image that appears in Google: //*[@id="islrg"]/div[1]/div[1]/a[1]/div[0]/img
@@ -34,103 +35,30 @@ def get_google_img(search_query):
         # Click on the thumbnail
         img_box.click()
 
-        fir_img = WebDriverWait(browser, 5).until(
-            EC.presence_of_element_located((By.XPATH, '//*[@id="Sva75c"]/div[2]/div/div[2]/div[2]/div[2]/c-wiz/div[2]/div[1]/div[1]/div[2]/div/a/img'))
-        )
-        
-        fir_img.click()
-        
-        # Retrieve attribute of src from the element
-        img_src = fir_img.get_attribute('src')
-        print(img_src)
-        return img_src
+        time.sleep(1)
+        # XPath for the img containing the correct src (might change, if it breaks then inspect element and copy XPATH)
+        try:
+            WebDriverWait(browser, 5).until(
+                EC.presence_of_element_located((By.XPATH, '//*[@id="Sva75c"]/div[2]/div/div[2]/div[2]/div[2]/c-wiz/div[2]/div[1]/div[1]/div[2]/div/a/img'))
+            )
+        finally:
+            fir_img = browser.find_element(By.XPATH,'//*[@id="Sva75c"]/div[2]/div/div[2]/div[2]/div[2]/c-wiz/div[2]/div[1]/div[1]/div[2]/div/a/img')
+            # Retrieve attribute of src from the element
+            img_src = fir_img.get_attribute('src')
+
+            # check if img_src starts with https://swebtoon-phinf.pstatic.net
+            if img_src.startswith("https://swebtoon-phinf.pstatic.net"):
+                return img_src
+            else:
+                logging.error(''+search_query+' | ''failed''')
+                return
+
     except Exception as e: 
-        print(e)
-
-
-    # using BeautifulSoup
-    # page_source = browser.page_source
-    # soup = BeautifulSoup(page_source, 'html.parser')
-    # image = soup.find('img', class_='n3VNCb KAlRDb')['src']
-    # print(image)
-    # return image
-
-    # this gets the image stored as base64 encoded hash 
-    # session = requests.Session()
-
-    # driver = webdriver.Firefox()
-    # # going to Images Section
-    # driver.get(f'https://www.google.com/search?q={search_query}&source=lnms&tbm=isch')
-
-    # img_box = browser.find_element_by_xpath('//*[@id="islrg"]/div[1]/div[1]/a[1]/div[1]/img')
-    # img_box.click()
-
-    # driver.implicitly_wait(5)
+        logging.error(''+search_query+' | '+str(e)+'')
 
     
-    # page_source = driver.page_source
-    # driver.close()
-
-    # soup = BeautifulSoup(page_source, 'html.parser')
-    # img_tag = soup.find('img', class_='rg_i Q4LuWd')
-    # # a_tag = soup.find('a', class_='wXeWr islib nfEiy')
-
-    # # print(a_tag)
-    # # a_response = session.get(a_tag['href'], headers=headers)
-    # # a_soup = BeautifulSoup(a_response.text, 'html.parser')
-    # image = soup.find('img', class_='n3VNCb KAlRDb')
-    # print(image['href'])
-    
-    # # print(img_tag['src'])
-    
-    # driver.quit()
-
-# # attempt with requests
-# # google changes the html formatting all the time so this breaks
-# def get_google_img(query):
-#     """
-#     gets a link to the first google image search result
-#     :param query: search query string
-#     :result: url string to first result
-#     """
-#     try:
-#         url = "https://www.google.com/search?q=" + str(query) + "&source=lnms&tbm=isch"
-#         print(url)
-
-#         html = requests.get(url, headers=headers).text
-#         soup = BeautifulSoup(html, 'html.parser')
-
-#         # first attempt that used to work
-#         # get first google image result (index 0 is the google logo)
-#         images = soup.findAll('img')
-#         image = images[1]
-#         return
-
-#         # second attempt
-#         # get all images with alt that includes the string 'webtoon'
-#         swebtoon = "https://swebtoon-phinf.pstatic.net/"
-#         image = soup.select_one('a.wXeWr.islib.nfEiy')
-#         print(image)
-
-#         if not image:
-#             print('no image found')
-#             return 
-#         return image['src']
-#     except requests.exceptions.RequestException as e:
-#         print(f'An error occurred while making the request to find image: {e}')
-#     except AttributeError as e:
-#         print(f'An error occurred while parsing the HTML content to find image: {e}')
-    
-#
-def get_all_webtoon_images(all_webtoon_data):
-    
-
-    # get image for each webtoon one at a time
-
-    browser.close()
-    browser.quit()
-
-
+# this script gets webtoon data from the genres page, which has duplicates in different genres
+# I realized after it is probably better to get the list of webtoons from https://www.webtoons.com/en/dailySchedule instead 
 def get_all_webtoons_data():
     # store webtoons data in list
     all_webtoon_data = []
@@ -160,7 +88,9 @@ def get_all_webtoons_data():
 
             # can't access image directly from webtoons page so will find another way to get an image
             query = "https://swebtoon-phinf.pstatic.net/" + title + "webtoon"
-            # image = get_google_img(query)
+
+            # get image from first google image result
+            image = get_google_img(query)
 
             # webtoon data
             webtoon_data = {
@@ -170,11 +100,13 @@ def get_all_webtoons_data():
                 "views_count": views_count,
                 "subscribed_count": subscribed_count,
                 "rating": rating,
-                # "image": image 
+                "img_url": image 
             }
 
             # store in list
             all_webtoon_data.append(webtoon_data)
+        browser.close()
+        browser.quit()
         
         return all_webtoon_data
     except requests.exceptions.RequestException as e:
@@ -184,8 +116,7 @@ def get_all_webtoons_data():
 
 if __name__ == '__main__':
     file_path = 'all_webtoon_data.json'
-
-    # 
+ 
     if not os.path.exists(file_path):
         all_webtoon_data = get_all_webtoons_data()
 
@@ -197,15 +128,11 @@ if __name__ == '__main__':
             # Write the JSON string to the file
             file.write(json_data)
 
-    with open(file_path) as json_file:
-        # load the json data into a variable
-        all_webtoon_data = json.load(json_file)
-    print(all_webtoon_data[0])
-    print(all_webtoon_data[0]["title"])
-    print(len(all_webtoon_data))
-    query = f'https://swebtoon-phinf.pstatic.net/ {all_webtoon_data[0]["title"]} webtoon'
-    print(query)
-    get_google_img(query)
+
+
+    
+
+
 
     
     

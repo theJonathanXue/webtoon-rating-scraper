@@ -33,7 +33,7 @@
     "views_count": "1.2M",
     "subscribed_count": "99,316",
     "rating": "9.77",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20221029_248/1666974750484xSfz1_JPEG/1Survival_Diary_mobile_landingpage.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/slice-of-life/my-name-is-benny/list?title_no=1279",
@@ -321,7 +321,7 @@
     "views_count": "20M",
     "subscribed_count": "478,008",
     "rating": "9.52",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210310_209/1615346454240JU57A_PNG/0DevilishRomance_mobile_landingpage.png?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/night-of-shadows/list?title_no=5044",
@@ -429,7 +429,7 @@
     "views_count": "42.3M",
     "subscribed_count": "914,123",
     "rating": "9.33",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20200404_10/1585955845003JDElv_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/romance/kind-of-love/list?title_no=1850",
@@ -627,7 +627,7 @@
     "views_count": "23.5M",
     "subscribed_count": "549,162",
     "rating": "9.38",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_221/1611697667361CWzNd_JPEG/004_EC9E91ED9288EC8381EC84B8_mobile+28329.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/comedy/not-so-shoujo-love-story/list?title_no=2189",
@@ -864,6 +864,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220520_209/1653010889588dCaEd_JPEG/3NeverEndingDarling_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/66666-years-advent-of-the-dark-mage/list?title_no=3441",
+    "title": "66,666 Years:Advent of the Dark Mage",
+    "genre": "Fantasy",
+    "views_count": "15.3M",
+    "subscribed_count": "428,971",
+    "rating": "9.74",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211005_197/1633371549200X6lt7_JPEG/866666Years_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/covenant/list?title_no=2011",
     "title": "Covenant",
     "genre": "Action",
@@ -942,7 +951,7 @@
     "views_count": "107.9M",
     "subscribed_count": "1.3M",
     "rating": "9.75",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210701_199/16250977196469jNWw_JPEG/9Rebirth_mobile_landingpage.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/romance/brimstone-and-roses/list?title_no=1758",
@@ -1122,7 +1131,7 @@
     "views_count": "11.9M",
     "subscribed_count": "447,885",
     "rating": "9.74",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20220629_127/1656459394182hMKbQ_JPEG/2Love+Me+to+Death_Launch_landingpage_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/sf/aphroditeix/list?title_no=1451",
@@ -1302,7 +1311,7 @@
     "views_count": "11M",
     "subscribed_count": "312,302",
     "rating": "9.34",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210909_276/16311248916778Ngga_JPEG/9Flawless_mobile_landingpage.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/slice-of-life/daybreak/list?title_no=4089",
@@ -1467,6 +1476,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20180309_111/1520567136885oCrif_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/no-marriage-is-perfect/list?title_no=4470",
+    "title": "No Marriage is Perfect",
+    "genre": "Romance",
+    "views_count": "16M",
+    "subscribed_count": "458,902",
+    "rating": "9.20",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220810_247/1660071648386VVb0O_JPEG/2Nomarriageisperfect_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/annie-green-hates-girls/list?title_no=3764",
     "title": "Annie Green Hates Girls",
     "genre": "Romance",
@@ -1491,7 +1509,7 @@
     "views_count": "6.9M",
     "subscribed_count": "240,823",
     "rating": "9.78",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20220910_270/1662755370252fIbrG_JPEG/0Trapped_landingpage_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/thriller/grasp/list?title_no=2854",
@@ -1518,7 +1536,16 @@
     "views_count": "193.3M",
     "subscribed_count": "2.6M",
     "rating": "9.64",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20190422_30/1555914048077Pb3bz_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
+  },
+  {
+    "url": "https://www.webtoons.com/en/mystery/dr-frost/list?title_no=371",
+    "title": "Dr. Frost",
+    "genre": "Mystery",
+    "views_count": "40.4M",
+    "subscribed_count": "406,150",
+    "rating": "9.80",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20141226_128/14195864452322voUK_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/the-lone-necromancer/list?title_no=3690",
@@ -1665,6 +1692,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20160108_292/1452239327586VDcSf_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/im-the-queen-in-this-life/list?title_no=4886",
+    "title": "I'm the Queen in This Life",
+    "genre": "Fantasy",
+    "views_count": "8.9M",
+    "subscribed_count": "508,856",
+    "rating": "9.58",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221111_164/166810633191538JV4_JPEG/6ImtheQueeninThisLife_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/til-debt-do-us-part/list?title_no=3115",
     "title": "'Til Debt Do Us Part",
     "genre": "Romance",
@@ -1698,7 +1734,7 @@
     "views_count": "19.5M",
     "subscribed_count": "427,406",
     "rating": "9.60",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210407_62/1617747435309cdYFO_JPEG/7ShadowBride_mobile_landingpage.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/sf/matchmaker-hero/list?title_no=1569",
@@ -1744,6 +1780,15 @@
     "subscribed_count": "81,058",
     "rating": "8.98",
     "img_url": "https://swebtoon-phinf.pstatic.net/20221027_83/16668132173426EMpo_JPEG/8OurResidentExorcist_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/anti-monster-force/list?title_no=2970",
+    "title": "Anti-Monster Force",
+    "genre": "Fantasy",
+    "views_count": "4M",
+    "subscribed_count": "147,876",
+    "rating": "9.46",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210714_294/1626210219966AmU9z_JPEG/8AntiMonsterForceLaunch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/the-academys-undercover-professor/list?title_no=4636",
@@ -1824,7 +1869,7 @@
     "views_count": "13.1M",
     "subscribed_count": "122,681",
     "rating": "9.28",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_227/1611710217905Pat8k_JPEG/6Xinker-Mobile-Landing-Page.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/the-witch-and-the-bull/list?title_no=1892",
@@ -1834,6 +1879,15 @@
     "subscribed_count": "897,750",
     "rating": "9.77",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220721_69/1658353782631m7f8L_JPEG/1Thewitchandthebull_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/survival-diary/list?title_no=4676",
+    "title": "Survival Diary",
+    "genre": "Thriller",
+    "views_count": "1.2M",
+    "subscribed_count": "99,316",
+    "rating": "9.77",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221029_248/1666974750484xSfz1_JPEG/1Survival_Diary_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/super-hero/inarime/list?title_no=675",
@@ -1872,6 +1926,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20211020_3/1634661602266rUwyo_JPEG/5Chasing+Tails_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/the-lone-necromancer/list?title_no=3690",
+    "title": "The Lone Necromancer",
+    "genre": "Fantasy",
+    "views_count": "19.8M",
+    "subscribed_count": "495,013",
+    "rating": "9.67",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211209_80/1639018264654Iv35G_JPEG/5The+Lone+Necromancer_Launch_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/mystery/the-secrets-of-the-willson-family/list?title_no=4696",
     "title": "The Secrets ofthe Willson Family",
     "genre": "Mystery",
@@ -1905,7 +1968,7 @@
     "views_count": "1.3M",
     "subscribed_count": "71,649",
     "rating": "9.68",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20191203_73/1575324601884y7lXd_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/protect-the-knight/list?title_no=3384",
@@ -1915,6 +1978,15 @@
     "subscribed_count": "148,925",
     "rating": "9.61",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210908_74/16310762563816BfhB_JPEG/7ProtectTheKnight_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/crimson-heart/list?title_no=4898",
+    "title": "Crimson Heart",
+    "genre": "Fantasy",
+    "views_count": "854,056",
+    "subscribed_count": "144,739",
+    "rating": "9.50",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221125_54/1669352832408midEz_JPEG/1download.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/comedy/teenage-dragon/list?title_no=4188",
@@ -1971,6 +2043,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210408_66/1617833225027MDc5b_JPEG/2DearX_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/i-get-stronger-the-more-i-eat/list?title_no=3199",
+    "title": "I Get Stronger the More I Eat",
+    "genre": "Action",
+    "views_count": "21.1M",
+    "subscribed_count": "405,952",
+    "rating": "9.26",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220603_219/1654233709384NsIDz_JPEG/5IGSTMIE_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/honey-lemon/list?title_no=2762",
+    "title": "Honey Lemon",
+    "genre": "Romance",
+    "views_count": "2.5M",
+    "subscribed_count": "269,835",
+    "rating": "9.66",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221115_171/1668451923891bLQVC_JPEG/6Honey_Lemon_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/the-greatest-estate-developer/list?title_no=3596",
     "title": "The Greatest Estate Developer",
     "genre": "Fantasy",
@@ -2014,6 +2104,15 @@
     "subscribed_count": "193,943",
     "rating": "9.74",
     "img_url": "https://swebtoon-phinf.pstatic.net/20221004_120/1664821422754V2Y6j_JPEG/8c2e91cd-711d-4323-8d17-60b04d38e3921986179422889974621.jpg"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/so-i-married-the-antifan/list?title_no=2739",
+    "title": "So I Married the Anti-Fan",
+    "genre": "Romance",
+    "views_count": "32.9M",
+    "subscribed_count": "706,305",
+    "rating": "9.48",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210504_242/1620087733861jXhAG_JPEG/5SoIMarriedtheAntifan_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/sf/in-the-bleak-midwinter/list?title_no=1946",
@@ -2196,6 +2295,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210219_146/1613672095474tUhJq_JPEG/0JungleJuice_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/our-resident-exorcist/list?title_no=4673",
+    "title": "Our Resident Exorcist",
+    "genre": "Action",
+    "views_count": "636,630",
+    "subscribed_count": "81,058",
+    "rating": "8.98",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221027_83/16668132173426EMpo_JPEG/8OurResidentExorcist_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/nice-to-meet-you/list?title_no=2066",
     "title": "Nice To Meet You",
     "genre": "Romance",
@@ -2229,7 +2337,7 @@
     "views_count": "20.2M",
     "subscribed_count": "419,493",
     "rating": "9.84",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20200619_269/1592540348562R6dIE_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/romance/leveling-up-my-husband-to-the-max/list?title_no=3311",
@@ -2319,7 +2427,7 @@
     "views_count": "281.9M",
     "subscribed_count": "3.4M",
     "rating": "9.75",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20181021_205/1540083365479ETvSn_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/sf/harmonia/list?title_no=3253",
@@ -2403,6 +2511,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220907_244/1662484452840SBydB_JPEG/9Branching+Out_Launch_landingpage_mobile+copy.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/serena/list?title_no=5037",
+    "title": "Serena",
+    "genre": "Drama",
+    "views_count": "3.2M",
+    "subscribed_count": "368,803",
+    "rating": "8.29",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230104_128/1672792912905RgbjV_JPEG/7Serena_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/supernatural/spirit-hunter/list?title_no=3185",
     "title": "Spirit Hunter",
     "genre": "Supernatural",
@@ -2419,6 +2536,15 @@
     "subscribed_count": "2.9M",
     "rating": "9.78",
     "img_url": "https://swebtoon-phinf.pstatic.net/20221105_240/1667583143202tfffw_JPEG/4_720x1230_Lookism_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/sports/hanlim-gym/list?title_no=2850",
+    "title": "Hanlim Gym",
+    "genre": "Sports",
+    "views_count": "11M",
+    "subscribed_count": "216,060",
+    "rating": "9.52",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210611_144/1623377022386uLOuS_JPEG/1HanlimGym_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/the-retreats/list?title_no=3792",
@@ -2481,7 +2607,7 @@
     "views_count": "2.6M",
     "subscribed_count": "110,621",
     "rating": "9.81",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20220330_168/1648605503948tIJCr_JPEG/0It27sOn_mobile_landingpage.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/super-hero/magical-12th-graders/list?title_no=90",
@@ -2499,7 +2625,7 @@
     "views_count": "172.2M",
     "subscribed_count": "1.3M",
     "rating": "9.69",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20140702_229/1404270285885reovX_JPEG/19_EC96B8ED84B0ECB298EBB894.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/athena-complex/list?title_no=867",
@@ -2527,6 +2653,15 @@
     "subscribed_count": "131,467",
     "rating": "9.67",
     "img_url": "https://swebtoon-phinf.pstatic.net/20141226_289/1419561499212vvRpO_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/our-paradise/list?title_no=4740",
+    "title": "Our Paradise",
+    "genre": "Drama",
+    "views_count": "1.3M",
+    "subscribed_count": "61,944",
+    "rating": "9.52",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221227_162/16720851896486fD09_JPEG/4OurParadise_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/horror/brain-anthology/list?title_no=2207",
@@ -2610,6 +2745,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220406_6/1649181538306nL0dz_JPEG/0DoubleBindedByLove_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/slice-of-life/its-on/list?title_no=2958",
+    "title": "It's On",
+    "genre": "Slice of life",
+    "views_count": "2.6M",
+    "subscribed_count": "110,621",
+    "rating": "9.81",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220330_168/1648605503948tIJCr_JPEG/0It27sOn_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/comedy/the-danemen/list?title_no=395",
     "title": "The DaneMen",
     "genre": "Comedy",
@@ -2664,6 +2808,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20180215_53/1518651131993LrCwE_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/mystery/parallelcity/list?title_no=2053",
+    "title": "Parallel City",
+    "genre": "Mystery",
+    "views_count": "20.2M",
+    "subscribed_count": "419,493",
+    "rating": "9.84",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20200619_269/1592540348562R6dIE_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/thriller/bite-me/list?title_no=1019",
     "title": "Bite Me",
     "genre": "Thriller",
@@ -2698,6 +2851,15 @@
     "subscribed_count": "2M",
     "rating": "9.71",
     "img_url": "https://swebtoon-phinf.pstatic.net/20170303_204/1488518926242n3tks_JPEG/M_details.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/kill-the-dragon/list?title_no=4583",
+    "title": "Kill the Dragon",
+    "genre": "Action",
+    "views_count": "4.2M",
+    "subscribed_count": "199,889",
+    "rating": "9.16",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220730_20/16591430933536Xwon_JPEG/0KilltheDragon_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/tacit/list?title_no=3178",
@@ -2799,6 +2961,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210127_267/1611706477751xp4W9_JPEG/3Its-Mine-Mobile-Landing-Page.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/mystery/senorita-cometa/list?title_no=3387",
+    "title": "Se\u00f1orita Cometa",
+    "genre": "Mystery",
+    "views_count": "4.2M",
+    "subscribed_count": "191,583",
+    "rating": "9.77",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220322_80/16478998100411NyQs_JPEG/5SenCC83orita+Cometa_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/spirit-fingers/list?title_no=1577",
     "title": "Spirit Fingers",
     "genre": "Drama",
@@ -2815,6 +2986,15 @@
     "subscribed_count": "3.3M",
     "rating": "9.86",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210127_106/1611705089085OYcUB_JPEG/1Tower-of-God-Mobile-Landing-Page.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/til-debt-do-us-part/list?title_no=3115",
+    "title": "'Til Debt Do Us Part",
+    "genre": "Romance",
+    "views_count": "20.5M",
+    "subscribed_count": "449,453",
+    "rating": "9.72",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220224_190/164564771621500shG_JPEG/4TDDUP_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/castle-swimmer/list?title_no=1499",
@@ -2835,6 +3015,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20171001_229/1506831504188C7omx_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/finding-wonderland/list?title_no=2704",
+    "title": "Finding Wonderland",
+    "genre": "Fantasy",
+    "views_count": "5.9M",
+    "subscribed_count": "281,390",
+    "rating": "9.46",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210529_121/1622226148318LuCMf_JPEG/9FindingWonderland_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/hellper/list?title_no=185",
     "title": "Hellper",
     "genre": "Fantasy",
@@ -2850,7 +3039,7 @@
     "views_count": "360.1M",
     "subscribed_count": "1.7M",
     "rating": "9.91",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20200330_145/1585526479145tTKa2_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/sf/nexus-point/list?title_no=2965",
@@ -2868,7 +3057,7 @@
     "views_count": "13.3M",
     "subscribed_count": "297,772",
     "rating": "9.81",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210307_47/1615105314492Ds8JN_JPEG/3Stagertown_mobile_landingpage.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/sf/room-of-swords/list?title_no=1261",
@@ -2889,6 +3078,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20200818_136/1597690421738neomF_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/the-second-lead-syndrome/list?title_no=2757",
+    "title": "The Second Lead Syndrome",
+    "genre": "Drama",
+    "views_count": "2.5M",
+    "subscribed_count": "169,379",
+    "rating": "9.33",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20190207_93/1549475738983oCW81_JPEG/thumbnail.jpg"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/shadow-bride/list?title_no=2618",
+    "title": "Shadow Bride",
+    "genre": "Romance",
+    "views_count": "19.5M",
+    "subscribed_count": "427,406",
+    "rating": "9.60",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210407_62/1617747435309cdYFO_JPEG/7ShadowBride_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/console-her/list?title_no=3054",
     "title": "Console Her",
     "genre": "Romance",
@@ -2896,6 +3103,15 @@
     "subscribed_count": "80,188",
     "rating": "8.96",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220629_126/1656458465868beKpG_JPEG/7ConsoleHer_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/horror/survive-romance/list?title_no=2607",
+    "title": "Surviving Romance",
+    "genre": "Horror",
+    "views_count": "30.5M",
+    "subscribed_count": "645,331",
+    "rating": "9.82",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210414_211/1618358451100hzApq_JPEG/6SurvivingRomance_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/drama/get-schooled/list?title_no=2684",
@@ -3060,6 +3276,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220319_185/16476330499755BYiT_JPEG/3MoneyGameLaunch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/his-majestys-proposal/list?title_no=2674",
+    "title": "His Majesty's Proposal",
+    "genre": "Fantasy",
+    "views_count": "46.4M",
+    "subscribed_count": "828,574",
+    "rating": "9.26",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210430_65/1619743096045hMo4T_JPEG/8HisMajesty27sProposal_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/sf/dents/list?title_no=671",
+    "title": "Dents",
+    "genre": "Sci-fi",
+    "views_count": "12.5M",
+    "subscribed_count": "255,421",
+    "rating": "9.47",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20180930_59/1538271762915xmAYf_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/the-horizon/list?title_no=3141",
     "title": "The Horizon",
     "genre": "Drama",
@@ -3123,6 +3357,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210721_218/1626812540060fgeCY_JPEG/8WhenJasyWhistlesLaunch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/defects/list?title_no=2731",
+    "title": "Defects",
+    "genre": "Fantasy",
+    "views_count": "4.3M",
+    "subscribed_count": "226,866",
+    "rating": "9.54",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220215_176/1644894025428W6sWt_JPEG/4Defects_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/elf-and-warrior/list?title_no=908",
     "title": "Elf & Warrior",
     "genre": "Fantasy",
@@ -3130,6 +3373,15 @@
     "subscribed_count": "234,618",
     "rating": "9.68",
     "img_url": "https://swebtoon-phinf.pstatic.net/20161219_92/1482141448253Gwutc_JPEG/M_details.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/horror/scroll-if-you-dare/list?title_no=4784",
+    "title": "Scroll if You Dare",
+    "genre": "Horror",
+    "views_count": "7.2M",
+    "subscribed_count": "263,187",
+    "rating": "9.55",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220924_282/1663954196525Nb762_JPEG/7ScrollIfYouDare_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/drama/loser-coin/list?title_no=4177",
@@ -3168,6 +3420,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20150416_42/1429111096024h2cGf_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/bitten-contract/list?title_no=3689",
+    "title": "Bitten Contract",
+    "genre": "Romance",
+    "views_count": "21.1M",
+    "subscribed_count": "527,323",
+    "rating": "9.67",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211210_137/1639086824957e514o_JPEG/3BittenContract_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/saving-a-mercenary-unit-from-bankruptcy/list?title_no=4686",
     "title": "Saving a Mercenary Unitfrom Bankruptcy",
     "genre": "Fantasy",
@@ -3193,6 +3454,15 @@
     "subscribed_count": "496,211",
     "rating": "9.69",
     "img_url": "https://swebtoon-phinf.pstatic.net/20230124_112/1674516732536j0oLG_JPEG/2TtSaB_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/leveling-up-my-husband-to-the-max/list?title_no=3311",
+    "title": "Leveling UpMy Husband to the Max",
+    "genre": "Romance",
+    "views_count": "43.1M",
+    "subscribed_count": "841,167",
+    "rating": "9.59",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211013_19/1634093909893EI4oM_JPEG/8Leveling+Up+My+Husband+to+the+Max_launch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/jumping-over/list?title_no=3238",
@@ -3238,6 +3508,15 @@
     "subscribed_count": "195,692",
     "rating": "9.45",
     "img_url": "https://swebtoon-phinf.pstatic.net/20211026_221/1635183573401cQqDL_JPEG/1ReawakenedMan_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/island/list?title_no=3923",
+    "title": "Island",
+    "genre": "Action",
+    "views_count": "862,095",
+    "subscribed_count": "56,048",
+    "rating": "9.00",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220210_86/1644500152947M84CN_JPEG/8Island_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/horror/the-dummys-dummy/list?title_no=2874",
@@ -3294,6 +3573,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20170607_17/1496799627024ycWkC_JPEG/M_details.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/sf/space-boy/list?title_no=400",
+    "title": "Space Boy",
+    "genre": "Sci-fi",
+    "views_count": "79.8M",
+    "subscribed_count": "450,754",
+    "rating": "9.84",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_268/1611703245054oIsKk_JPEG/7Space-Boy-Mobile-Landing-Page.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/subtle-disaster/list?title_no=350",
     "title": "Subtle Disaster",
     "genre": "Drama",
@@ -3339,6 +3627,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210310_145/1615340273207eHc1L_JPEG/9ALYLM_mobile_landingpage_1.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/the-lone-spellcaster/list?title_no=3478",
+    "title": "The Lone Spellcaster",
+    "genre": "Fantasy",
+    "views_count": "16.8M",
+    "subscribed_count": "401,967",
+    "rating": "8.28",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211109_169/1636397650956kwPOK_JPEG/4TheLoneSpellcaster_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/supernatural/unstable/list?title_no=4092",
     "title": "Unstable",
     "genre": "Supernatural",
@@ -3355,6 +3652,15 @@
     "subscribed_count": "147,200",
     "rating": "9.05",
     "img_url": "https://swebtoon-phinf.pstatic.net/20200304_255/158328049726052cg1_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/complicated-cohabitation/list?title_no=4739",
+    "title": "ComplicatedCohabitation",
+    "genre": "Romance",
+    "views_count": "1M",
+    "subscribed_count": "64,376",
+    "rating": "8.53",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221227_220/16721201424789GxJV_JPEG/0Complicated-Cohabitation_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/drama/to-be-ordinary/list?title_no=3246",
@@ -3402,6 +3708,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220210_64/16444341299488NHde_JPEG/5ManagerKim_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/midnight-rain/list?title_no=1797",
+    "title": "Midnight Rain",
+    "genre": "Drama",
+    "views_count": "17.2M",
+    "subscribed_count": "379,669",
+    "rating": "9.06",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210717_231/1626504586309Ydf2t_JPEG/3MidnightRainRevamp_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/everfallen/list?title_no=3762",
     "title": "Everfallen",
     "genre": "Fantasy",
@@ -3429,6 +3744,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220602_243/16541271138540eb3U_JPEG/2CountingSheep_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/im-the-max-level-newbie/list?title_no=3915",
+    "title": "I'm the Max-Level Newbie",
+    "genre": "Action",
+    "views_count": "20.3M",
+    "subscribed_count": "534,207",
+    "rating": "9.19",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220607_240/16545450210242lyoY_JPEG/6IE28099mtheMaxLevelNewbie_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/blue/list?title_no=3477",
     "title": "Blue",
     "genre": "Drama",
@@ -3453,7 +3777,7 @@
     "views_count": "11.4M",
     "subscribed_count": "363,854",
     "rating": "9.33",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210714_284/16262207964353B0RT_JPEG/3LatenebrosaEvelyne_mobile_landingpage.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/lumine/list?title_no=1022",
@@ -3483,6 +3807,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20200912_25/15998694025873UcmY_JPEG/104_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/red-compass/list?title_no=3761",
+    "title": "Red Compass",
+    "genre": "Action",
+    "views_count": "295,067",
+    "subscribed_count": "34,290",
+    "rating": "8.33",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221006_200/16649980943476tSr1_JPEG/9RedCompass_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/blade-of-the-phantom-master/list?title_no=3481",
     "title": "Blade of thePhantom Master",
     "genre": "Action",
@@ -3490,6 +3823,15 @@
     "subscribed_count": "42,741",
     "rating": "8.48",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220608_90/1654675212115mVxiW_JPEG/0Blade+of+the+Phantom+Master_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/questism/list?title_no=3767",
+    "title": "QUESTISM",
+    "genre": "Fantasy",
+    "views_count": "7.7M",
+    "subscribed_count": "187,075",
+    "rating": "9.52",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220119_276/16425590434416Ph4o_JPEG/6QUESTISM_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/girls-of-the-wilds/list?title_no=93",
@@ -3627,6 +3969,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20140702_270/1404269971405lzuml_JPEG/32_EC9584EB8A94EC82ACEB9E8CEC9DB4EC95BCEAB8B0.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/the-producers-second-life/list?title_no=5046",
+    "title": "The Producer'sSecond Life",
+    "genre": "Drama",
+    "views_count": "754,724",
+    "subscribed_count": "56,825",
+    "rating": "8.70",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230113_129/1673576258702iNsKO_JPEG/8TPSL_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/bite-me/list?title_no=1019",
+    "title": "Bite Me",
+    "genre": "Thriller",
+    "views_count": "36M",
+    "subscribed_count": "433,703",
+    "rating": "8.25",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20170426_168/1493182678753l9rT0_JPEG/M_details_preview.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/slice-of-life/saphie-one-eyed-cat/list?title_no=670",
     "title": "Saphie: The One-Eyed Cat",
     "genre": "Slice of life",
@@ -3634,6 +3994,15 @@
     "subscribed_count": "652,038",
     "rating": "9.80",
     "img_url": "https://swebtoon-phinf.pstatic.net/20151126_245/1448513509634TxYQx_JPEG/thumbnail.jpg"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/witchs-workshop/list?title_no=4887",
+    "title": "Witch's Workshop",
+    "genre": "Drama",
+    "views_count": "209,089",
+    "subscribed_count": "21,849",
+    "rating": "8.48",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221122_254/1669110519075xCpdO_JPEG/6WitchsWorkshop_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/drama/spring-once-again/list?title_no=4262",
@@ -3652,6 +4021,33 @@
     "subscribed_count": "563,879",
     "rating": "9.59",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210127_96/1611697047873kqBco_JPEG/504_EC9E91ED9288EC8381EC84B8_mobile+28229.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/mystery/the-secrets-of-the-willson-family/list?title_no=4696",
+    "title": "The Secrets ofthe Willson Family",
+    "genre": "Mystery",
+    "views_count": "931,469",
+    "subscribed_count": "86,527",
+    "rating": "9.73",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221029_193/1666995085794lMClf_JPEG/0The_Secrets_of_the_Willson_Family_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/the-princesss-jewels/list?title_no=2966",
+    "title": "The Princess's Jewels",
+    "genre": "Fantasy",
+    "views_count": "20.8M",
+    "subscribed_count": "467,366",
+    "rating": "8.57",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210708_247/1625709600547AoyLx_JPEG/1ThePrincess27sJewels_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/covenant/list?title_no=2011",
+    "title": "Covenant",
+    "genre": "Action",
+    "views_count": "18.9M",
+    "subscribed_count": "606,636",
+    "rating": "9.65",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220723_32/16585387186502A6LP_JPEG/2Covenant_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/survival-log/list?title_no=4175",
@@ -3690,6 +4086,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220903_76/1662154163473jwKUm_PNG/028720x123029Mobile+Detail+Banner_preview.png?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/thriller/fingers/list?title_no=4674",
+    "title": "Fingers",
+    "genre": "Thriller",
+    "views_count": "680,268",
+    "subscribed_count": "57,323",
+    "rating": "9.08",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221029_196/16669865261003PwOj_JPEG/8Fingers_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/comedy/aura-from-another-planet/list?title_no=369",
     "title": "Aura from Another Planet",
     "genre": "Comedy",
@@ -3717,6 +4122,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210127_70/16116958545724QewP_JPEG/104_EC9E91ED9288EC8381EC84B8_mobile+28229.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/sports/wind-breaker/list?title_no=372",
+    "title": "Wind Breaker",
+    "genre": "Sports",
+    "views_count": "360.1M",
+    "subscribed_count": "1.7M",
+    "rating": "9.91",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20200330_145/1585526479145tTKa2_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/darbi/list?title_no=1098",
     "title": "Darbi",
     "genre": "Action",
@@ -3742,6 +4156,15 @@
     "subscribed_count": "242,913",
     "rating": "9.70",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220129_86/1643394999566xFlBc_JPEG/0Kubera_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/hero-killer/list?title_no=2745",
+    "title": "Hero Killer",
+    "genre": "Action",
+    "views_count": "37.1M",
+    "subscribed_count": "737,395",
+    "rating": "9.76",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210430_31/1619742184853MleU1_JPEG/0HeroKiller_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/slice-of-life/murrz/list?title_no=1281",
@@ -3870,6 +4293,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20221122_4/1669107146914BxOLV_JPEG/4ToYouWhoDoesn_tLoveMe_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/supernatural/la-tenebrosa-evelyne/list?title_no=3182",
+    "title": "Evelyne and the Occult",
+    "genre": "Supernatural",
+    "views_count": "11.4M",
+    "subscribed_count": "363,854",
+    "rating": "9.33",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210714_284/16262207964353B0RT_JPEG/3LatenebrosaEvelyne_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/superstar-associate-manager/list?title_no=4357",
     "title": "Superstar AssociateManager",
     "genre": "Drama",
@@ -3886,6 +4318,15 @@
     "subscribed_count": "757,904",
     "rating": "9.69",
     "img_url": "https://swebtoon-phinf.pstatic.net/20170303_203/1488519301926kMwBa_JPEG/M_details_preview.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/the-academys-undercover-professor/list?title_no=4636",
+    "title": "The Academy's Undercover Professor",
+    "genre": "Fantasy",
+    "views_count": "3.3M",
+    "subscribed_count": "263,651",
+    "rating": "9.78",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220915_219/1663201799763PwT4D_JPEG/0TAUP_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/alice-elise/list?title_no=1481",
@@ -3913,6 +4354,15 @@
     "subscribed_count": "870,527",
     "rating": "9.28",
     "img_url": "https://swebtoon-phinf.pstatic.net/20170606_213/1496713366754qcNqp_JPEG/M_details_preview.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/annie-green-hates-girls/list?title_no=3764",
+    "title": "Annie Green Hates Girls",
+    "genre": "Romance",
+    "views_count": "2M",
+    "subscribed_count": "158,437",
+    "rating": "7.73",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220930_150/1664484630228utaMS_JPEG/1AnnieGreenHatesGirls_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/mage-again/list?title_no=3476",
@@ -4056,7 +4506,7 @@
     "views_count": "46.3M",
     "subscribed_count": "273,648",
     "rating": "8.99",
-    "img_url": "https://static.wikia.nocookie.net/webtoon/images/3/3a/My_Dictator_Boyfriend.png/revision/latest?cb=20210102053634"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/7fates-chakho/list?title_no=3784",
@@ -4131,13 +4581,22 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220119_268/1642529251996G5xCX_JPEG/1Sarah+I27m+Sorry_Launch_mobile_landingpage_INDO.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/the-lazy-lord-masters-the-sword/list?title_no=3349",
+    "title": "The Lazy LordMasters the Sword",
+    "genre": "Fantasy",
+    "views_count": "19.6M",
+    "subscribed_count": "383,963",
+    "rating": "9.84",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210821_189/1629507852928GG9vm_JPEG/9The-Lazy-Lord-Masters-the-SwordLaunch_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/supernatural/soul-on-hold/list?title_no=1701",
     "title": "Soul on Hold",
     "genre": "Supernatural",
     "views_count": "10.5M",
     "subscribed_count": "266,175",
     "rating": "9.63",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_3/1611703204413OdMkA_JPEG/1SoH-Mobile-Landing-Page.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/comedy/99-reinforced-wooden-stick/list?title_no=4286",
@@ -4156,6 +4615,24 @@
     "subscribed_count": "337,250",
     "rating": "9.64",
     "img_url": "https://swebtoon-phinf.pstatic.net/20171220_177/1513740380987nqYf5_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/untouchable/list?title_no=79",
+    "title": "unTouchable",
+    "genre": "Romance",
+    "views_count": "172.2M",
+    "subscribed_count": "1.3M",
+    "rating": "9.69",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20140702_229/1404270285885reovX_JPEG/19_EC96B8ED84B0ECB298EBB894.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/trash-belongs-in-the-trash-can/list?title_no=4314",
+    "title": "Trash Belongs in the Trash Can!",
+    "genre": "Romance",
+    "views_count": "11.6M",
+    "subscribed_count": "450,804",
+    "rating": "9.41",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220607_116/1654566473105vdUNE_JPEG/0TBITTC_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/mystery/royale/list?title_no=2748",
@@ -4183,6 +4660,15 @@
     "subscribed_count": "59,319",
     "rating": "9.59",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210916_142/16317267602739LNdf_JPEG/5She+Bites21_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/children-of-mirra/list?title_no=4080",
+    "title": "Children of Mirra",
+    "genre": "Fantasy",
+    "views_count": "1M",
+    "subscribed_count": "81,883",
+    "rating": "9.59",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221118_103/1668733124893WugvI_JPEG/0Children_of_Mirra_Adventurer_s_Party_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/re-possessed/list?title_no=3760",
@@ -4221,6 +4707,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20200529_35/1590710661942mMzAR_JPEG/thumbnail.jpg"
   },
   {
+    "url": "https://www.webtoons.com/en/sf/nano-list/list?title_no=700",
+    "title": "Nano List",
+    "genre": "Sci-fi",
+    "views_count": "57.1M",
+    "subscribed_count": "617,541",
+    "rating": "9.80",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20160628_55/1467096833592MGp3b_JPEG/M_details.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/to-do-list/list?title_no=4568",
+    "title": "To-Do List",
+    "genre": "Romance",
+    "views_count": "327,275",
+    "subscribed_count": "33,396",
+    "rating": "9.34",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221223_119/1671743130073dLhs4_JPEG/2ToDoList_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/for-my-derelict-favorite/list?title_no=4571",
     "title": "For My Derelict Favorite",
     "genre": "Romance",
@@ -4228,6 +4732,15 @@
     "subscribed_count": "416,758",
     "rating": "9.76",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220727_82/1658884834165KsOcW_JPEG/3ForMyDerelictFavorite_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/sisters-at-war/list?title_no=4940",
+    "title": "Sisters at War",
+    "genre": "Drama",
+    "views_count": "2.1M",
+    "subscribed_count": "198,994",
+    "rating": "9.60",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221214_27/16709639743735kBKC_JPEG/7SistersAtWar_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/her-bucket-list/list?title_no=2564",
@@ -4266,6 +4779,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220714_31/1657797040358LA0KO_JPEG/0Soulwinder_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/to-my-first-love/list?title_no=5064",
+    "title": "To My First Love",
+    "genre": "Romance",
+    "views_count": "1M",
+    "subscribed_count": "177,406",
+    "rating": "9.69",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221227_169/1672083157376JaDCx_JPEG/6To_My_First_Love_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/mystery/purple-hyacinth/list?title_no=1621",
     "title": "Purple Hyacinth",
     "genre": "Mystery",
@@ -4291,6 +4813,24 @@
     "subscribed_count": "39,524",
     "rating": "7.83",
     "img_url": "https://swebtoon-phinf.pstatic.net/20151210_76/1449726583624EJIe3_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/odd-girl-out/list?title_no=1420",
+    "title": "Odd Girl Out",
+    "genre": "Drama",
+    "views_count": "172.3M",
+    "subscribed_count": "913,173",
+    "rating": "9.84",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20180712_67/153133316191043VT1_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/comedy/the-hip-guy/list?title_no=2577",
+    "title": "The Hip Guy",
+    "genre": "Comedy",
+    "views_count": "9.8M",
+    "subscribed_count": "238,967",
+    "rating": "9.26",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210402_273/1617323604293f5ROF_JPEG/6TheHipGuy_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/raven-saga/list?title_no=2527",
@@ -4320,6 +4860,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20211201_152/1638300932662FFPHF_JPEG/5Morgana26Oz_Launch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/slice-of-life/daybreak/list?title_no=4089",
+    "title": "Daybreak",
+    "genre": "Slice of life",
+    "views_count": "22.2M",
+    "subscribed_count": "479,071",
+    "rating": "9.72",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220903_19/1662153614534bedmR_JPEG/5Daybreak_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/heartwarming/heart-anthology/list?title_no=2191",
     "title": "HEART Anthology",
     "genre": "Heartwarming",
@@ -4345,6 +4894,15 @@
     "subscribed_count": "480,218",
     "rating": "9.40",
     "img_url": "https://swebtoon-phinf.pstatic.net/20180920_21/1537406720542igmKF_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/the-child-of-a-star/list?title_no=4736",
+    "title": "The Child of a Star",
+    "genre": "Fantasy",
+    "views_count": "489,210",
+    "subscribed_count": "64,849",
+    "rating": "6.40",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221217_25/1671227000976F9CpJ_JPEG/7TheChildofaStar_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/comedy/epic-v/list?title_no=353",
@@ -4381,6 +4939,15 @@
     "subscribed_count": "76,677",
     "rating": "9.04",
     "img_url": "https://swebtoon-phinf.pstatic.net/20221130_53/1669773282076XR86x_JPEG/0The_Empress__Lipstick__Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/my-boo/list?title_no=1185",
+    "title": "My Boo",
+    "genre": "Supernatural",
+    "views_count": "48.1M",
+    "subscribed_count": "923,086",
+    "rating": "9.75",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20171001_229/1506831504188C7omx_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/supernatural/flawed-almighty/list?title_no=3577",
@@ -4446,6 +5013,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220608_248/1654626331321YrR1t_JPEG/2ToTameAFire_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/heartwarming/heart-anthology/list?title_no=2191",
+    "title": "HEART Anthology",
+    "genre": "Heartwarming",
+    "views_count": "12.2M",
+    "subscribed_count": "233,534",
+    "rating": "9.65",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210126_47/1611620701311b1ATJ_JPEG/3HeartAnthology_mobilelanding+page.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/mystery/the-wolfman-of-wulvershire/list?title_no=1784",
     "title": "The Wolfman of Wulvershire",
     "genre": "Mystery",
@@ -4488,7 +5064,7 @@
     "views_count": "858,473",
     "subscribed_count": "18,325",
     "rating": "8.88",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20150223_261/1424658923662fd5Yf_JPEG/_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/action/the-world-after-the-fall/list?title_no=4011",
@@ -4507,6 +5083,15 @@
     "subscribed_count": "233,736",
     "rating": "9.54",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210408_94/1617824859348QPDi6_JPEG/2TheSnakeAndTheFlower_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/reincarnated-as-an-unruly-heir/list?title_no=3597",
+    "title": "Reincarnated as anUnruly Heir",
+    "genre": "Action",
+    "views_count": "8.5M",
+    "subscribed_count": "237,078",
+    "rating": "9.63",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220610_97/1654799561470IfwOC_JPEG/8RAAUH_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/supernatural/11-of-me/list?title_no=3235",
@@ -4707,6 +5292,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20200411_37/15865459321258AnIC_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/branching-out/list?title_no=3204",
+    "title": "Branching Out",
+    "genre": "Fantasy",
+    "views_count": "797,820",
+    "subscribed_count": "50,933",
+    "rating": "9.55",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220907_244/1662484452840SBydB_JPEG/9Branching+Out_Launch_landingpage_mobile+copy.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/comedy/axed/list?title_no=1558",
     "title": "AXED",
     "genre": "Comedy",
@@ -4869,6 +5463,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220701_10/1656612201599Xjdvt_JPEG/3DearNemesis_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/blood-ink/list?title_no=1490",
+    "title": "Blood-Ink",
+    "genre": "Action",
+    "views_count": "52.9M",
+    "subscribed_count": "663,151",
+    "rating": "9.65",
+    "img_url": null
+  },
+  {
     "url": "https://www.webtoons.com/en/mystery/finality/list?title_no=1457",
     "title": "FINALITY",
     "genre": "Mystery",
@@ -4932,6 +5535,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20211111_174/1636568478506iEfBr_JPEG/8TECS_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/marionetta/list?title_no=4425",
+    "title": "Marionetta",
+    "genre": "Fantasy",
+    "views_count": "1.9M",
+    "subscribed_count": "246,468",
+    "rating": "9.86",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221221_257/16715911124069ygIW_JPEG/7Marionetta_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/dark-mortal/list?title_no=2505",
     "title": "Dark Mortal",
     "genre": "Drama",
@@ -4939,6 +5551,15 @@
     "subscribed_count": "229,474",
     "rating": "9.78",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210504_48/1620083055189tL8co_JPEG/9DarkMortal_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/soul-gear/list?title_no=4473",
+    "title": "Soul Gear",
+    "genre": "Action",
+    "views_count": "420,800",
+    "subscribed_count": "49,499",
+    "rating": "8.78",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221210_184/1670632599402NgCAM_JPEG/6Soul_Gear_Launch_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/behind-the-curtain/list?title_no=2858",
@@ -4957,6 +5578,33 @@
     "subscribed_count": "108,928",
     "rating": "9.64",
     "img_url": "https://swebtoon-phinf.pstatic.net/20221025_42/1666631926379jfOQ2_JPEG/7WelfareCenter_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/the-doctors-are-out/list?title_no=1910",
+    "title": "The Doctors are Out",
+    "genre": "Romance",
+    "views_count": "42.7M",
+    "subscribed_count": "563,880",
+    "rating": "9.59",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_96/1611697047873kqBco_JPEG/504_EC9E91ED9288EC8381EC84B8_mobile+28229.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/divine-circumstances/list?title_no=4320",
+    "title": "Divine Circumstances",
+    "genre": "Romance",
+    "views_count": "1.9M",
+    "subscribed_count": "110,899",
+    "rating": "7.47",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220920_285/1663635789604U4bO6_JPEG/6DivineCircumstances_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/shotgun-boy/list?title_no=2534",
+    "title": "Shotgun Boy",
+    "genre": "Thriller",
+    "views_count": "40.7M",
+    "subscribed_count": "916,369",
+    "rating": "9.80",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210311_253/16154323881036jfOL_JPEG/3ShotgunBoy_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/comedy/rooftops-and-roommates/list?title_no=2576",
@@ -4993,6 +5641,15 @@
     "subscribed_count": "15,052",
     "rating": "7.66",
     "img_url": "https://swebtoon-phinf.pstatic.net/20150309_232/1425895143670KsYTJ_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/sf/duty-after-school/list?title_no=370",
+    "title": "Duty After School",
+    "genre": "Sci-fi",
+    "views_count": "6.2M",
+    "subscribed_count": "131,467",
+    "rating": "9.67",
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/romance/she-would-never-know/list?title_no=2508",
@@ -5038,6 +5695,15 @@
     "subscribed_count": "59,297",
     "rating": "9.72",
     "img_url": "https://swebtoon-phinf.pstatic.net/20140702_64/1404270340316EetSV_JPEG/22_EC9584EC9DB4EC868CED8FACEC8AA4.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/love-and-leashes/list?title_no=3919",
+    "title": "Love and Leashes",
+    "genre": "Romance",
+    "views_count": "15.4M",
+    "subscribed_count": "266,466",
+    "rating": "9.13",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220204_232/164394334624841zsD_JPEG/0LoveAndLeashes_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/magician/list?title_no=70",
@@ -5130,6 +5796,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210722_249/1626916396752v9Uxz_JPEG/6BabyEmpress_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/miss-abbott-and-the-doctor/list?title_no=707",
+    "title": "Miss Abbott and the Doctor",
+    "genre": "Romance",
+    "views_count": "95.9M",
+    "subscribed_count": "736,603",
+    "rating": "9.81",
+    "img_url": null
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/sixth-sense-kiss/list?title_no=2921",
     "title": "Sixth Sense Kiss",
     "genre": "Romance",
@@ -5166,6 +5841,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20201229_131/16092073386817TVm8_JPEG/4TheAdvancedPlayeroftheTutorialTower_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/supernatural/floating-in-my-mind/list?title_no=3485",
+    "title": "Floating in My Mind",
+    "genre": "Supernatural",
+    "views_count": "3.3M",
+    "subscribed_count": "146,163",
+    "rating": "9.03",
+    "img_url": null
+  },
+  {
     "url": "https://www.webtoons.com/en/super-hero/cyko-ko/list?title_no=560",
     "title": "Cyko-KO",
     "genre": "Superhero",
@@ -5184,6 +5868,42 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20180914_189/15368916307514F1nK_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/supernatural/devil-no-4/list?title_no=1695",
+    "title": "Devil Number 4",
+    "genre": "Supernatural",
+    "views_count": "140.7M",
+    "subscribed_count": "1.8M",
+    "rating": "9.76",
+    "img_url": null
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/to-not-die/list?title_no=3787",
+    "title": "To Not Die",
+    "genre": "Drama",
+    "views_count": "8.1M",
+    "subscribed_count": "237,554",
+    "rating": "9.71",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220119_100/1642559443582VqGWG_JPEG/5ToNotDie_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/horror/gremoryland/list?title_no=1893",
+    "title": "GremoryLand",
+    "genre": "Horror",
+    "views_count": "22.6M",
+    "subscribed_count": "413,771",
+    "rating": "9.47",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20200206_103/1580930607999JGQr6_JPEG/mail.navercorp.com.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/heirs-game/list?title_no=1445",
+    "title": "Heir's Game",
+    "genre": "Drama",
+    "views_count": "33.6M",
+    "subscribed_count": "302,469",
+    "rating": "9.74",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20190729_291/1564349398412S2TDm_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/knife-in-her-heart/list?title_no=5043",
     "title": "Knife in Her Heart",
     "genre": "Drama",
@@ -5199,7 +5919,7 @@
     "views_count": "1.4M",
     "subscribed_count": "70,198",
     "rating": "9.05",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20220430_86/1651261084337lM23i_JPEG/2WTYH_landingpage_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/action/bloodhounds/list?title_no=4000",
@@ -5209,6 +5929,15 @@
     "subscribed_count": "67,152",
     "rating": "9.21",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220308_71/1646707892496AHCIM_JPEG/4Bloodhounds_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/perfect-marriage-revenge/list?title_no=3484",
+    "title": "Perfect Marriage Revenge",
+    "genre": "Romance",
+    "views_count": "39.9M",
+    "subscribed_count": "799,132",
+    "rating": "9.57",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211012_168/16339782860274Hjd2_JPEG/4PerfectMarriageRevenge_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/little-lady-mint/list?title_no=4441",
@@ -5274,6 +6003,42 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20180704_274/1530671424149pCCxu_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/back-to-you/list?title_no=2113",
+    "title": "Back to You",
+    "genre": "Drama",
+    "views_count": "39.2M",
+    "subscribed_count": "731,249",
+    "rating": "9.63",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20200721_131/1595294885925Um6eK_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/super-hero/cyberforce/list?title_no=531",
+    "title": "Cyberforce",
+    "genre": "Superhero",
+    "views_count": "1.7M",
+    "subscribed_count": "39,524",
+    "rating": "7.83",
+    "img_url": null
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/reborn-rich/list?title_no=4956",
+    "title": "Reborn Rich",
+    "genre": "Drama",
+    "views_count": "1.8M",
+    "subscribed_count": "191,593",
+    "rating": "9.77",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221205_154/16702175460925mwMJ_JPEG/9RebornRich_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/the-world-where-i-belong/list?title_no=1318",
+    "title": "The World Where I Belong",
+    "genre": "Supernatural",
+    "views_count": "9.2M",
+    "subscribed_count": "329,192",
+    "rating": "9.55",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_60/1611710005266VYHFy_JPEG/8The-World-Where-I-Belong-Mobile-Landing-Page.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/how-to-survive-a-romance-fantasy/list?title_no=2855",
     "title": "How to Survive a Romance Fantasy",
     "genre": "Fantasy",
@@ -5337,6 +6102,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20140702_167/1404270826178OWyrQ_JPEG/11_EB8BA4EC9DB4EC8AA4.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/lost-in-translation/list?title_no=1882",
+    "title": "Lost in Translation",
+    "genre": "Drama",
+    "views_count": "47.6M",
+    "subscribed_count": "661,071",
+    "rating": "9.71",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211208_105/16389178574567WJ3G_JPEG/3LostInTranslation_mobile_landingpage_ver2.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/long-after-the-ending/list?title_no=4179",
+    "title": "Long After the Ending",
+    "genre": "Romance",
+    "views_count": "5.8M",
+    "subscribed_count": "223,054",
+    "rating": "9.66",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220430_212/1651261676653ljG1J_JPEG/5LongAftertheEnding_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/the-strongest-florist/list?title_no=2507",
     "title": "The Strongest Florist",
     "genre": "Action",
@@ -5355,6 +6138,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20140702_84/1404270137155niD9i_JPEG/33_ED8AB8EB9FBCED9484.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/supernatural/the-last-bloodline/list?title_no=2722",
+    "title": "The Last Bloodline",
+    "genre": "Supernatural",
+    "views_count": "2.9M",
+    "subscribed_count": "322,124",
+    "rating": "9.64",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221220_259/1671479585889nCQBp_JPEG/6TLB_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/auto-hunting-with-my-clones/list?title_no=5034",
+    "title": "Auto HuntingWith My Clones",
+    "genre": "Action",
+    "views_count": "322,699",
+    "subscribed_count": "72,038",
+    "rating": "9.58",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230128_187/1674862917955NMJX5_JPEG/0AutoHuntingWithMyClones_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/comedy/my-daughter-is-a-zombie/list?title_no=2190",
     "title": "My Daughter is a Zombie",
     "genre": "Comedy",
@@ -5362,6 +6163,33 @@
     "subscribed_count": "356,089",
     "rating": "9.67",
     "img_url": "https://swebtoon-phinf.pstatic.net/20200923_44/1600815135588Jiyy3_JPEG/504_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/when-jasy-whistles/list?title_no=2721",
+    "title": "When Jasy Whistles",
+    "genre": "Fantasy",
+    "views_count": "27.9M",
+    "subscribed_count": "647,620",
+    "rating": "9.83",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210721_218/1626812540060fgeCY_JPEG/8WhenJasyWhistlesLaunch_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/hellbound/list?title_no=3598",
+    "title": "Hellbound",
+    "genre": "Thriller",
+    "views_count": "2.5M",
+    "subscribed_count": "202,214",
+    "rating": "9.31",
+    "img_url": null
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/the-druid-of-seoul-station/list?title_no=3453",
+    "title": "The Druid of Seoul Station",
+    "genre": "Action",
+    "views_count": "25.3M",
+    "subscribed_count": "494,734",
+    "rating": "9.49",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211002_249/1633129406371DDuvc_JPEG/5The+Druid+of+Seoul+Station_Launch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/mythic-item-obtained/list?title_no=4582",
@@ -5454,6 +6282,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20181110_262/1541793855245MqEiy_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/thriller/my-deepest-secret/list?title_no=1580",
+    "title": "My Deepest Secret",
+    "genre": "Thriller",
+    "views_count": "193.3M",
+    "subscribed_count": "2.6M",
+    "rating": "9.64",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20190422_30/1555914048077Pb3bz_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/21st-century-knights/list?title_no=2718",
     "title": "21st Century Knights",
     "genre": "Fantasy",
@@ -5488,6 +6325,24 @@
     "subscribed_count": "702,425",
     "rating": "9.52",
     "img_url": "https://swebtoon-phinf.pstatic.net/20211202_198/1638410235919kNA0o_JPEG/3DeathRescheduled_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/secret-playlist/list?title_no=2395",
+    "title": "Secret Playlist",
+    "genre": "Romance",
+    "views_count": "33.8M",
+    "subscribed_count": "639,115",
+    "rating": "9.59",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20201212_217/1607741544935YlCty_JPEG/8SecretPlaylisth_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/a-chance-at-last/list?title_no=3909",
+    "title": "A Chance At Last",
+    "genre": "Romance",
+    "views_count": "8.5M",
+    "subscribed_count": "228,216",
+    "rating": "9.75",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220203_212/1643857780630KbBEe_JPEG/6A+Chance+At+Last_Launch_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/thriller/the-guy-upstairs/list?title_no=4087",
@@ -5544,6 +6399,33 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20211113_6/1636740768704UM1Oq_JPEG/6Skye_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/our-secret-alliance/list?title_no=4178",
+    "title": "Our Secret Alliance",
+    "genre": "Romance",
+    "views_count": "4.7M",
+    "subscribed_count": "207,159",
+    "rating": "9.70",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220503_100/1651561746892fpbrb_JPEG/5OurSecretAlliance_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/spring-once-again/list?title_no=4262",
+    "title": "Spring Once Again",
+    "genre": "Drama",
+    "views_count": "736,363",
+    "subscribed_count": "55,568",
+    "rating": "9.43",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220614_155/16551590543729xX2l_JPEG/8SpringOnceAgain_landingpage_mobile_ver2.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/dungeons-and-artifacts/list?title_no=2575",
+    "title": "Dungeons & Artifacts",
+    "genre": "Action",
+    "views_count": "29.2M",
+    "subscribed_count": "512,117",
+    "rating": "9.56",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210402_188/1617299289365yQN6V_JPEG/6Dungeons26Artifacts_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/thriller/deep/list?title_no=364",
     "title": "DEEP",
     "genre": "Thriller",
@@ -5551,6 +6433,15 @@
     "subscribed_count": "133,925",
     "rating": "9.10",
     "img_url": "https://swebtoon-phinf.pstatic.net/20141212_183/1418373133972jxMC5_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/realta/list?title_no=3271",
+    "title": "Realta",
+    "genre": "Fantasy",
+    "views_count": "3.2M",
+    "subscribed_count": "173,157",
+    "rating": "9.51",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220629_111/1656457815911IwbGd_JPEG/0Realta_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/comedy/finding-fiends/list?title_no=2756",
@@ -5562,6 +6453,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220119_162/1642558023386W0DRg_JPEG/0FindingFiends_Launch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/death-of-a-pop-star/list?title_no=2273",
+    "title": "Death of a Pop Star",
+    "genre": "Romance",
+    "views_count": "23.5M",
+    "subscribed_count": "585,870",
+    "rating": "9.36",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20201014_61/16026138508586g5jE_JPEG/104_EC97E1.JPG?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/the-shadow-prophet/list?title_no=1881",
     "title": "The Shadow Prophet",
     "genre": "Drama",
@@ -5569,6 +6469,15 @@
     "subscribed_count": "90,534",
     "rating": "9.56",
     "img_url": "https://swebtoon-phinf.pstatic.net/20200123_187/1579737875776vsxk6_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/slice-of-life/to-the-stars-and-back/list?title_no=4047",
+    "title": "To The Stars and Back",
+    "genre": "Slice of life",
+    "views_count": "36.5M",
+    "subscribed_count": "496,212",
+    "rating": "9.69",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230124_112/1674516732536j0oLG_JPEG/2TtSaB_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/fray/list?title_no=4351",
@@ -5652,6 +6561,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220405_173/1649095746529JxkXm_JPEG/5Nina27s+Magic+Chest_Launch_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/dragon-savior/list?title_no=4687",
+    "title": "Dragon Savior",
+    "genre": "Fantasy",
+    "views_count": "257,504",
+    "subscribed_count": "25,276",
+    "rating": "9.32",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221129_46/1669690523588ceJjo_JPEG/3Dragon_Savior_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/super-hero/xinker/list?title_no=541",
+    "title": "XINK3R",
+    "genre": "Superhero",
+    "views_count": "13.1M",
+    "subscribed_count": "122,681",
+    "rating": "9.28",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_227/1611710217905Pat8k_JPEG/6Xinker-Mobile-Landing-Page.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/taste-of-illness/list?title_no=2506",
     "title": "Taste of Illness",
     "genre": "Drama",
@@ -5670,6 +6597,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20150708_184/1436335785882vAVcn_JPEG/_EB9AA1EB80AB_E293A4EABCB9__EB84BD_EB90A3EB80AB_EC86BDE.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/a-heartfelt-andante/list?title_no=5047",
+    "title": "A Heartfelt Andante",
+    "genre": "Drama",
+    "views_count": "252,528",
+    "subscribed_count": "83,069",
+    "rating": "9.70",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230112_38/1673483220041FHfQt_JPEG/0A_Heartfelt_Andante_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/my-life-as-a-loser/list?title_no=3114",
+    "title": "My Life as a Loser",
+    "genre": "Drama",
+    "views_count": "7M",
+    "subscribed_count": "204,920",
+    "rating": "9.82",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210731_34/1627681801942I5DRY_JPEG/9MyLifeasaLoser_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/charming-you/list?title_no=4156",
     "title": "Charming You",
     "genre": "Romance",
@@ -5677,6 +6622,15 @@
     "subscribed_count": "181,399",
     "rating": "7.56",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220504_22/1651617550021hxVma_JPEG/9CharmingYou_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/comedy/heavenly-eats/list?title_no=4356",
+    "title": "Heavenly Eats",
+    "genre": "Comedy",
+    "views_count": "925,020",
+    "subscribed_count": "76,533",
+    "rating": "9.68",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220627_180/1656324257640rIkah_JPEG/8HeavenlyEats_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/thriller/friday/list?title_no=388",
@@ -5721,7 +6675,7 @@
     "views_count": "21.6M",
     "subscribed_count": "438,864",
     "rating": "9.17",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20180928_187/1538101336155CCcoT_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/thriller/escape-room/list?title_no=1815",
@@ -5740,6 +6694,15 @@
     "subscribed_count": "92,317",
     "rating": "9.57",
     "img_url": "https://swebtoon-phinf.pstatic.net/20230118_224/1673985362013hsILq_JPEG/3CorpseKnightGunther_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/killmax/list?title_no=1894",
+    "title": "KILLMAX",
+    "genre": "Supernatural",
+    "views_count": "13.6M",
+    "subscribed_count": "592,820",
+    "rating": "8.94",
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/super-hero/war-cry/list?title_no=1247",
@@ -5767,6 +6730,15 @@
     "subscribed_count": "103,570",
     "rating": "9.33",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210507_80/1620350339027l5zpB_JPEG/1TrailerParkWarlock_mobile_landingpage+28129.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/after-school-lessons-for-unripe-apples/list?title_no=3093",
+    "title": "After School Lessonsfor Unripe Apples",
+    "genre": "Drama",
+    "views_count": "20.7M",
+    "subscribed_count": "351,708",
+    "rating": "9.94",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210714_49/16262094425114mCso_JPEG/5AfterSchoolLessonsForUnripeApples_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/slice-of-life/the-dog-diaries/list?title_no=3041",
@@ -5814,6 +6786,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210917_208/1631804579776ne1j7_JPEG/5Eyes_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/freaking-romance/list?title_no=1467",
+    "title": "Freaking Romance",
+    "genre": "Romance",
+    "views_count": "281.9M",
+    "subscribed_count": "3.4M",
+    "rating": "9.75",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20181021_205/1540083365479ETvSn_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/maybe-meant-to-be/list?title_no=4208",
     "title": "Maybe Meant to Be",
     "genre": "Romance",
@@ -5823,6 +6804,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220526_160/1653517945580YvJVR_PNG/4MaybeMeantToBe_landingpage_mobile.png?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/the-warrior-returns/list?title_no=3265",
+    "title": "The Warrior Returns",
+    "genre": "Action",
+    "views_count": "12.2M",
+    "subscribed_count": "366,387",
+    "rating": "8.83",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210910_86/1631225962604x18bb_JPEG/2TheWarriorReturns_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/ghost-wife/list?title_no=1471",
     "title": "Ghost Wife",
     "genre": "Romance",
@@ -5830,6 +6820,15 @@
     "subscribed_count": "1.4M",
     "rating": "9.73",
     "img_url": "https://swebtoon-phinf.pstatic.net/20181026_191/1540517124785paWeq_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/a-whirlwind-campus-affair/list?title_no=4094",
+    "title": "A Whirlwind Campus Affair",
+    "genre": "Drama",
+    "views_count": "6.3M",
+    "subscribed_count": "219,343",
+    "rating": "9.64",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220331_163/1648664629753kNipT_JPEG/3AWhirlwindCampusAffair_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/supernatural/third-shift-society/list?title_no=1703",
@@ -5883,7 +6882,16 @@
     "views_count": "15.7M",
     "subscribed_count": "202,674",
     "rating": "9.74",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20200320_239/1584654974501gMJSx_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
+  },
+  {
+    "url": "https://www.webtoons.com/en/historical/the-double-agent/list?title_no=3209",
+    "title": "The Double Agent",
+    "genre": "Historical",
+    "views_count": "10.9M",
+    "subscribed_count": "302,053",
+    "rating": "8.90",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210803_227/1627933634627udgIY_JPEG/6TheDoubleAgent_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/shadow-pirates/list?title_no=1455",
@@ -5895,6 +6903,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20181001_97/1538366401064TvKK0_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/my-inlaws-are-obsessed-with-me/list?title_no=3918",
+    "title": "My In-Laws areObsessed with Me",
+    "genre": "Fantasy",
+    "views_count": "32.4M",
+    "subscribed_count": "748,387",
+    "rating": "9.82",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220215_106/1644892581654FjWfR_PNG/0MyInlawsAreObsessedWithMe_mobile_landingpage.png?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/the-dungeon-cleaning-life-of-a-once-genius-hunter/list?title_no=4677",
     "title": "The Dungeon Cleaning Lifeof a Once Genius Hunter",
     "genre": "Action",
@@ -5902,6 +6919,15 @@
     "subscribed_count": "302,193",
     "rating": "9.40",
     "img_url": "https://swebtoon-phinf.pstatic.net/20221004_269/1664871030278EJjFd_JPEG/1DCLoaOGH_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/knife-in-her-heart/list?title_no=5043",
+    "title": "Knife in Her Heart",
+    "genre": "Drama",
+    "views_count": "624,248",
+    "subscribed_count": "89,495",
+    "rating": "9.07",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230120_144/1674194184855tf4O6_JPEG/4KnifeInHerHeart_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/slice-of-life/pigminted/list?title_no=482",
@@ -5920,6 +6946,15 @@
     "subscribed_count": "27,683",
     "rating": "5.40",
     "img_url": "https://swebtoon-phinf.pstatic.net/20181003_15/1538506087137XB52W_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/designated-bully/list?title_no=4866",
+    "title": "Designated Bully",
+    "genre": "Action",
+    "views_count": "8.4M",
+    "subscribed_count": "380,975",
+    "rating": "9.48",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221117_152/1668642154827HRqTn_JPEG/3Designated_Bully_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/horror/rot-and-ruin/list?title_no=1878",
@@ -5949,6 +6984,33 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20180814_274/1534212511507tK5A6_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/regina-lena-to-the-unforgiven/list?title_no=3920",
+    "title": "Regina Rena:To the Unforgiven",
+    "genre": "Fantasy",
+    "views_count": "13.3M",
+    "subscribed_count": "477,574",
+    "rating": "9.69",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220212_294/1644624983559xWNAA_JPEG/6ReginaRenaTo+theUnforgiven_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/1hp-club/list?title_no=2960",
+    "title": "1HP Club",
+    "genre": "Fantasy",
+    "views_count": "38.4M",
+    "subscribed_count": "555,304",
+    "rating": "9.65",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220119_39/1642559213893mBETF_JPEG/31HpClub_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/mystical/list?title_no=2128",
+    "title": "Mystical",
+    "genre": "Supernatural",
+    "views_count": "28.7M",
+    "subscribed_count": "669,365",
+    "rating": "9.85",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_215/1611695936209964D5_JPEG/304_EC9E91ED9288EC8381EC84B8_mobile+28129.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/larashati/list?title_no=3483",
     "title": "Laras's Heart",
     "genre": "Drama",
@@ -5956,6 +7018,24 @@
     "subscribed_count": "89,681",
     "rating": "9.04",
     "img_url": "https://swebtoon-phinf.pstatic.net/20211030_28/1635544063294PAnvN_JPEG/7Lara27sHeart_Launch_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/how-to-survive-a-romance-fantasy/list?title_no=2855",
+    "title": "How to Survive a Romance Fantasy",
+    "genre": "Fantasy",
+    "views_count": "10.1M",
+    "subscribed_count": "425,931",
+    "rating": "9.24",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210610_101/1623290354418UFPwV_JPEG/3HTSRF_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/superstar-associate-manager/list?title_no=4357",
+    "title": "Superstar AssociateManager",
+    "genre": "Drama",
+    "views_count": "578,737",
+    "subscribed_count": "50,162",
+    "rating": "9.54",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220615_290/1655237421837WPMTq_JPEG/1Superstar+Associate+Manager_Launch__landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/supernatural/blacksmith/list?title_no=3341",
@@ -5974,6 +7054,33 @@
     "subscribed_count": "21,510",
     "rating": "7.91",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220407_118/1649281235098Kgb1w_JPEG/6Traveler_landingpage_mobile_040522.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/horror/zombie-ship/list?title_no=3350",
+    "title": "Zombie Ship",
+    "genre": "Horror",
+    "views_count": "3M",
+    "subscribed_count": "138,219",
+    "rating": "6.50",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220311_56/1646969234376Mbw38_JPEG/7ZombieShip_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/return-to-player/list?title_no=2574",
+    "title": "Return to Player",
+    "genre": "Action",
+    "views_count": "35.8M",
+    "subscribed_count": "647,381",
+    "rating": "9.66",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210401_243/16172532927339h68F_JPEG/7ReturntoPlayer_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/to-tame-a-fire/list?title_no=3763",
+    "title": "To Tame a Fire",
+    "genre": "Supernatural",
+    "views_count": "4.9M",
+    "subscribed_count": "264,325",
+    "rating": "9.73",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220608_248/1654626331321YrR1t_JPEG/2ToTameAFire_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/lessa/list?title_no=89",
@@ -6000,7 +7107,7 @@
     "views_count": "568,168",
     "subscribed_count": "29,957",
     "rating": "8.36",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20220430_160/1651284639859R2vnD_JPEG/9Drawing+on+Heritage_Launch_landingpage_mobile+28129.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/sf/the-sound-of-another/list?title_no=2955",
@@ -6021,6 +7128,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210911_142/16313051714484Bbtx_JPEG/0TheMaleLeadsGirlfriend_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/random-chat/list?title_no=1669",
+    "title": "Random Chat",
+    "genre": "Drama",
+    "views_count": "30M",
+    "subscribed_count": "358,212",
+    "rating": "9.60",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20190711_157/1562806650500HtftK_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/lets-get-divorced/list?title_no=5035",
+    "title": "Let's Get Divorced!",
+    "genre": "Drama",
+    "views_count": "803,868",
+    "subscribed_count": "180,553",
+    "rating": "9.43",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230112_43/1673470661295rljOr_JPEG/7LetsGetDivorced_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/theres-love-hidden-in-lies/list?title_no=2467",
     "title": "There's Love Hidden in Lies",
     "genre": "Romance",
@@ -6028,6 +7153,15 @@
     "subscribed_count": "286,444",
     "rating": "7.49",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210212_47/1613068659277nfShp_JPEG/1TheresLove_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/unstable/list?title_no=4092",
+    "title": "Unstable",
+    "genre": "Supernatural",
+    "views_count": "561,861",
+    "subscribed_count": "67,407",
+    "rating": "8.81",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220908_106/16625872207108hb5e_JPEG/3Unstable_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/moonrise/list?title_no=4429",
@@ -6066,6 +7200,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20211012_83/1633976292035dMdiI_JPEG/3Agatha_Launch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/comedy/axed/list?title_no=1558",
+    "title": "AXED",
+    "genre": "Comedy",
+    "views_count": "37.2M",
+    "subscribed_count": "484,876",
+    "rating": "9.64",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20190306_213/15518380100080YjMG_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/discovering-love-a-harlequin-romance-collection/list?title_no=3791",
     "title": "Discovering Love: A Harlequin Romance Collection",
     "genre": "Romance",
@@ -6082,6 +7225,15 @@
     "subscribed_count": "196,549",
     "rating": "7.85",
     "img_url": "https://swebtoon-phinf.pstatic.net/20200723_167/1595472069435u56j1_JPEG/11.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/from-a-knight-to-a-lady/list?title_no=3164",
+    "title": "From a Knight to a Lady",
+    "genre": "Fantasy",
+    "views_count": "27.9M",
+    "subscribed_count": "566,606",
+    "rating": "9.72",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210729_80/1627519669080P65od_JPEG/2FromKnighttoLady_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/historical/return-of-the-mad-demon/list?title_no=3671",
@@ -6138,6 +7290,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20141219_83/1418979734249zHq9w_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/doom-breaker/list?title_no=3197",
+    "title": "Doom Breaker",
+    "genre": "Action",
+    "views_count": "39.4M",
+    "subscribed_count": "819,312",
+    "rating": "9.82",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210727_96/1627340998243veUSy_PNG/1DoomBreaker_mobile_landingpage.png?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/mistake/list?title_no=4118",
     "title": "Mistake",
     "genre": "Drama",
@@ -6145,6 +7306,15 @@
     "subscribed_count": "158,650",
     "rating": "8.15",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220408_192/1649356900388xhyp9_JPEG/7Mistake_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/divorcing-my-tyrant-husband/list?title_no=4942",
+    "title": "Divorcing MyTyrant Husband",
+    "genre": "Romance",
+    "views_count": "3.7M",
+    "subscribed_count": "279,612",
+    "rating": "8.74",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221216_243/1671155780269CFnHk_JPEG/3Divorcing_My_Tyrant_Husband_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/antistalker/list?title_no=2087",
@@ -6201,6 +7371,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20211113_182/1636751709545TOEdR_JPEG/3Eaternal+Nocturnal_Launch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/vampire-magicka/list?title_no=2963",
+    "title": "Vampire Magicka",
+    "genre": "Fantasy",
+    "views_count": "896,978",
+    "subscribed_count": "69,417",
+    "rating": "8.68",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220429_3/1651185941043o2WIW_JPEG/7VampireMagicka_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/descended-from-divinity/list?title_no=3450",
+    "title": "Descended from Divinity",
+    "genre": "Fantasy",
+    "views_count": "3.9M",
+    "subscribed_count": "118,699",
+    "rating": "9.08",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220603_241/16542016189360yR6i_JPEG/9Descended+from+Divinity_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/super-hero/immortal-weakling/list?title_no=2733",
     "title": "Immortal Weakling",
     "genre": "Superhero",
@@ -6208,6 +7396,24 @@
     "subscribed_count": "224,017",
     "rating": "9.30",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220712_292/1657561749318jpk7z_JPEG/6Immortal+Weakling_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/never-ending-darling/list?title_no=4212",
+    "title": "Never-Ending Darling",
+    "genre": "Thriller",
+    "views_count": "3.8M",
+    "subscribed_count": "153,191",
+    "rating": "9.75",
+    "img_url": null
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/my-universe/list?title_no=3113",
+    "title": "My Universe",
+    "genre": "Romance",
+    "views_count": "8.3M",
+    "subscribed_count": "288,227",
+    "rating": "9.25",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211103_261/1635888793976v1dQm_JPEG/7MyUniverse_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/can-i-take-it-back/list?title_no=4355",
@@ -6282,6 +7488,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20140922_280/1411355570271SHTm1_JPEG/EBAFB8EC8AA4ED858CEBA6ACEB8BA8ED8EB8EC84A0_mobileEC9E91.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/about-death/list?title_no=82",
+    "title": "About Death",
+    "genre": "Drama",
+    "views_count": "6.3M",
+    "subscribed_count": "138,641",
+    "rating": "9.83",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20140702_200/1404270243545UVhDF_JPEG/15_ECA3BDEC9D8CEC9790EAB480ED9598EC97AC.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/horror/distant-sky/list?title_no=75",
     "title": "Distant Sky",
     "genre": "Horror",
@@ -6300,6 +7515,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20200703_259/1593785216509aNJEv_PNG/thumbnail.jpg"
   },
   {
+    "url": "https://www.webtoons.com/en/action/manager-kim/list?title_no=3917",
+    "title": "Manager Kim",
+    "genre": "Action",
+    "views_count": "9.7M",
+    "subscribed_count": "275,762",
+    "rating": "9.76",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220210_64/16444341299488NHde_JPEG/5ManagerKim_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/historical/madame-outlaw/list?title_no=2716",
+    "title": "Madame Outlaw",
+    "genre": "Historical",
+    "views_count": "8.3M",
+    "subscribed_count": "276,151",
+    "rating": "9.41",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210528_41/1622137292146FmngM_JPEG/8MadameOutlaw_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/supernatural/underprin/list?title_no=78",
     "title": "UnderPrin",
     "genre": "Supernatural",
@@ -6315,7 +7548,7 @@
     "views_count": "2.3M",
     "subscribed_count": "62,699",
     "rating": "9.53",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20150508_171/1431075425785zu90d_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/super-hero/eternals-500-year-war/list?title_no=3916",
@@ -6325,6 +7558,42 @@
     "subscribed_count": "170,036",
     "rating": "7.36",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220121_168/1642723999289HgP7w_JPEG/0MarvelEternals_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/sf/in-the-bleak-midwinter/list?title_no=1946",
+    "title": "In the Bleak Midwinter;",
+    "genre": "Sci-fi",
+    "views_count": "26.3M",
+    "subscribed_count": "636,667",
+    "rating": "9.76",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220727_233/1658864511328umTF3_JPEG/5IBM_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/sf/rebirth/list?title_no=1412",
+    "title": "Rebirth",
+    "genre": "Sci-fi",
+    "views_count": "107.9M",
+    "subscribed_count": "1.3M",
+    "rating": "9.75",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210701_199/16250977196469jNWw_JPEG/9Rebirth_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/21st-century-knights/list?title_no=2718",
+    "title": "21st Century Knights",
+    "genre": "Fantasy",
+    "views_count": "5.2M",
+    "subscribed_count": "208,455",
+    "rating": "9.37",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220308_262/1646684429126Hcxla_PNG/421stCentKt_mobile_landingpage_ALT.png?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/just-a-goblin/list?title_no=3514",
+    "title": "Just a Goblin",
+    "genre": "Fantasy",
+    "views_count": "2.7M",
+    "subscribed_count": "160,320",
+    "rating": "9.53",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220910_199/1662759972264tRMQM_JPEG/1JustaGoblin_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/our-beloved-summer/list?title_no=3666",
@@ -6381,6 +7650,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20170502_190/1493715290629JX90E_JPEG/M_details.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/supernatural/nevermore/list?title_no=2740",
+    "title": "Nevermore",
+    "genre": "Supernatural",
+    "views_count": "12.3M",
+    "subscribed_count": "438,361",
+    "rating": "9.83",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220301_181/1646087538706JsFXu_JPEG/8Nevermore_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/monster-dukes-daughter/list?title_no=4469",
+    "title": "\bMonster Duke's Daughter",
+    "genre": "Fantasy",
+    "views_count": "9.6M",
+    "subscribed_count": "361,238",
+    "rating": "9.31",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220809_57/1659991663881BXnqA_JPEG/1MonsterDukesDaughter_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/my-dud-to-stud-boyfriend/list?title_no=4353",
     "title": "My Dud to Stud Boyfriend",
     "genre": "Drama",
@@ -6388,6 +7675,15 @@
     "subscribed_count": "169,618",
     "rating": "8.14",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220608_211/16546552777234wv4v_JPEG/1MDTSBF_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/code-adam/list?title_no=1657",
+    "title": "Code Adam",
+    "genre": "Action",
+    "views_count": "42.4M",
+    "subscribed_count": "813,541",
+    "rating": "9.75",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_4/1611706751514hlgL1_JPEG/8Code-Adam-Mobile-Landing-Page.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/hardcore-leveling-warrior/list?title_no=1221",
@@ -6414,7 +7710,7 @@
     "views_count": "73.2M",
     "subscribed_count": "1.3M",
     "rating": "9.79",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210608_280/1623106223810Jjdjd_JPEG/1Homesick_mobile_landingpage.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/lovely-hell/list?title_no=3181",
@@ -6462,6 +7758,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20190517_23/1558050105022mspHy_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/sf/the-sound-of-another/list?title_no=2955",
+    "title": "The Sound of Another",
+    "genre": "Sci-fi",
+    "views_count": "3.5M",
+    "subscribed_count": "198,809",
+    "rating": "8.38",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210708_219/1625695999003lVsm3_JPEG/5TheSoundofAnother_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/comedy/live-with-yourself/list?title_no=919",
     "title": "Live with Yourself!",
     "genre": "Comedy",
@@ -6469,6 +7774,15 @@
     "subscribed_count": "646,710",
     "rating": "9.75",
     "img_url": "https://swebtoon-phinf.pstatic.net/20190126_276/1548461567000rLYeF_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/school-bus-graveyard/list?title_no=2705",
+    "title": "School Bus Graveyard",
+    "genre": "Thriller",
+    "views_count": "47.7M",
+    "subscribed_count": "1M",
+    "rating": "9.83",
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/mystery/do-you-remember/list?title_no=2882",
@@ -6516,6 +7830,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210803_16/1627948927063OakMj_JPEG/7OnceAHero_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/supernatural/devilish-romance/list?title_no=2529",
+    "title": "Devilish Romance",
+    "genre": "Supernatural",
+    "views_count": "20M",
+    "subscribed_count": "478,008",
+    "rating": "9.52",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210310_209/1615346454240JU57A_PNG/0DevilishRomance_mobile_landingpage.png?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/opposite-of-always/list?title_no=2743",
     "title": "Opposite of Always",
     "genre": "Romance",
@@ -6525,6 +7848,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220322_43/1647901016812nVIsA_JPEG/4OppositeOfAlways_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/amid-the-changing-seasons/list?title_no=5021",
+    "title": "Amid the Changing Seasons",
+    "genre": "Romance",
+    "views_count": "427,729",
+    "subscribed_count": "81,952",
+    "rating": "9.42",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221223_124/1671759315173rFtWu_JPEG/5AmidTheChangingSeasons_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/thriller/the-predator/list?title_no=3454",
     "title": "The Predator",
     "genre": "Thriller",
@@ -6532,6 +7864,15 @@
     "subscribed_count": "177,670",
     "rating": "9.22",
     "img_url": "https://swebtoon-phinf.pstatic.net/20211014_195/16341623559137bJMl_JPEG/0ThePredator_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/scorching-romance/list?title_no=1662",
+    "title": "Scorching Romance",
+    "genre": "Romance",
+    "views_count": "45.9M",
+    "subscribed_count": "612,452",
+    "rating": "9.69",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20190629_50/1561742483808YXvI0_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/the-distance-between-us/list?title_no=4738",
@@ -6570,6 +7911,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210604_20/1622763660708Bp96N_JPEG/5GeckoChan_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/romance-101/list?title_no=2406",
+    "title": "Romance 101",
+    "genre": "Romance",
+    "views_count": "60.8M",
+    "subscribed_count": "711,784",
+    "rating": "9.87",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20201216_199/1608070679758TdeVq_JPEG/9A+Guide+to+Proper+Dating_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/horror/rot-and-ruin/list?title_no=1878",
+    "title": "Rot & Ruin",
+    "genre": "Horror",
+    "views_count": "13.6M",
+    "subscribed_count": "362,459",
+    "rating": "9.58",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20200110_66/15786142490772QIET_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile+28629.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/sable-curse/list?title_no=2735",
     "title": "Sable Curse",
     "genre": "Fantasy",
@@ -6585,7 +7944,7 @@
     "views_count": "44.2M",
     "subscribed_count": "916,028",
     "rating": "9.34",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210203_300/16122987094673kuMr_JPEG/104_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/romance/rumor-has-it/list?title_no=2967",
@@ -6595,6 +7954,15 @@
     "subscribed_count": "202,082",
     "rating": "9.67",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220504_56/1651618307594ObjjF_JPEG/3RumorHasIt_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/jacksons-diary/list?title_no=2446",
+    "title": "Jackson's Diary",
+    "genre": "Supernatural",
+    "views_count": "62.8M",
+    "subscribed_count": "881,771",
+    "rating": "9.71",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220625_291/1656112117810GANWB_JPEG/1Jackson27sDiary_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/thriller/epilogue/list?title_no=2610",
@@ -6651,6 +8019,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20150311_137/1426040766284XRVMf_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/the-prenup/list?title_no=4006",
+    "title": "The Prenup",
+    "genre": "Romance",
+    "views_count": "7.4M",
+    "subscribed_count": "253,156",
+    "rating": "8.11",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220303_17/1646300421652MXyxC_JPEG/9ThePrenup_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/flawless/list?title_no=3264",
+    "title": "Flawless",
+    "genre": "Romance",
+    "views_count": "11M",
+    "subscribed_count": "312,302",
+    "rating": "9.34",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210909_276/16311248916778Ngga_JPEG/9Flawless_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/king-of-the-east/list?title_no=4081",
     "title": "King of the East",
     "genre": "Action",
@@ -6678,13 +8064,22 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220309_288/1646789801252ioFDe_JPEG/5Aza_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/the-witch-and-the-bull/list?title_no=1892",
+    "title": "The Witch and The Bull",
+    "genre": "Fantasy",
+    "views_count": "57.3M",
+    "subscribed_count": "897,751",
+    "rating": "9.77",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220721_69/1658353782631m7f8L_JPEG/1Thewitchandthebull_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/answer-me-my-prince/list?title_no=4672",
     "title": "Answer Me, My Prince",
     "genre": "Romance",
     "views_count": "1.8M",
     "subscribed_count": "106,218",
     "rating": "9.19",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20221123_289/1669181507856iqfLq_JPEG/0AnswerMeMyPrince_landingpage_mobile.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/supernatural/lalins-curse/list?title_no=1601",
@@ -6703,6 +8098,15 @@
     "subscribed_count": "38,058",
     "rating": "9.55",
     "img_url": "https://swebtoon-phinf.pstatic.net/20160825_266/1472114400141iYAI7_JPEG/Details_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/the-breaker-eternal-force/list?title_no=4501",
+    "title": "The Breaker: Eternal Force",
+    "genre": "Action",
+    "views_count": "3.8M",
+    "subscribed_count": "230,317",
+    "rating": "9.44",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220708_269/1657239003497nx6sC_JPEG/9TheBreakerEF_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/blacksun/list?title_no=4082",
@@ -6730,6 +8134,15 @@
     "subscribed_count": "273,853",
     "rating": "9.41",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220813_142/1660345713490WBO0O_JPEG/3RedHood_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/third-shift-society/list?title_no=1703",
+    "title": "Third Shift Society",
+    "genre": "Supernatural",
+    "views_count": "11.8M",
+    "subscribed_count": "424,755",
+    "rating": "9.77",
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/forever-after/list?title_no=2699",
@@ -6768,13 +8181,22 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220301_212/1646103325299eGybg_JPEG/5NoOuttakes_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/only-hope/list?title_no=5036",
+    "title": "Only Hope",
+    "genre": "Romance",
+    "views_count": "598,123",
+    "subscribed_count": "184,102",
+    "rating": "9.63",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230124_288/16745289100290N8ed_JPEG/8OnlyHope_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/supernatural/shard/list?title_no=960",
     "title": "Shard",
     "genre": "Supernatural",
     "views_count": "13.1M",
     "subscribed_count": "207,324",
     "rating": "9.32",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20170303_109/1488511174562tc5B0_JPEG/M_details.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/romance/kind-of-confidential/list?title_no=663",
@@ -6793,6 +8215,42 @@
     "subscribed_count": "75,857",
     "rating": "9.08",
     "img_url": "https://swebtoon-phinf.pstatic.net/20190424_3/15560663072825GUfh_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/nomads/list?title_no=2732",
+    "title": "Nomads",
+    "genre": "Fantasy",
+    "views_count": "3.9M",
+    "subscribed_count": "133,017",
+    "rating": "9.80",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230127_79/1674783926910VT2Er_JPEG/8Nomads_landingpage_mobile_230112.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/homesick/list?title_no=2759",
+    "title": "Homesick",
+    "genre": "Thriller",
+    "views_count": "73.2M",
+    "subscribed_count": "1.3M",
+    "rating": "9.79",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210608_280/1623106223810Jjdjd_JPEG/1Homesick_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/horror/wolfsbane/list?title_no=1826",
+    "title": "Wolfsbane",
+    "genre": "Horror",
+    "views_count": "1.3M",
+    "subscribed_count": "71,649",
+    "rating": "9.68",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20191203_73/1575324601884y7lXd_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/the-newlywed-diary-of-a-witch-and-a-dragon/list?title_no=2448",
+    "title": "The Newlywed Diaryof a Witch and a Dragon",
+    "genre": "Romance",
+    "views_count": "44M",
+    "subscribed_count": "842,199",
+    "rating": "9.22",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210129_131/1611868137766nbmIC_JPEG/4TheNewlywedDiary_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/marry-me/list?title_no=1951",
@@ -6849,6 +8307,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20170331_262/1490952144415HSV9x_JPEG/M_details.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/fictional-skin/list?title_no=3272",
+    "title": "Fictional Skin",
+    "genre": "Drama",
+    "views_count": "5.4M",
+    "subscribed_count": "202,196",
+    "rating": "9.74",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220429_201/16511841888103QtDx_JPEG/0FictionalSkin_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/the-girl-from-class/list?title_no=73",
     "title": "THE GIRL FROM CLASS",
     "genre": "Drama",
@@ -6856,6 +8323,24 @@
     "subscribed_count": "120,457",
     "rating": "9.46",
     "img_url": "https://swebtoon-phinf.pstatic.net/20140616_209/1402907429203WzveJ_JPEG/07_EC8898EC9785EC8B9CEAB084EAB7B8EB8580.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/catharsis/list?title_no=396",
+    "title": "Catharsis",
+    "genre": "Fantasy",
+    "views_count": "61.4M",
+    "subscribed_count": "638,752",
+    "rating": "9.56",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20150303_116/1425369224408pODIL_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/horror/stagtown/list?title_no=2532",
+    "title": "Stagtown",
+    "genre": "Horror",
+    "views_count": "13.3M",
+    "subscribed_count": "297,772",
+    "rating": "9.81",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210307_47/1615105314492Ds8JN_JPEG/3Stagertown_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/slice-of-life/illusions-of-adulting/list?title_no=922",
@@ -6874,6 +8359,15 @@
     "subscribed_count": "59,403",
     "rating": "9.16",
     "img_url": "https://swebtoon-phinf.pstatic.net/20201119_286/1605730610643uiT3S_JPEG/404_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/hwarang/list?title_no=3911",
+    "title": "Hwarang: Flower Knights of the Underworld",
+    "genre": "Action",
+    "views_count": "837,021",
+    "subscribed_count": "81,742",
+    "rating": "9.29",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220209_106/1644347936679bvnL2_JPEG/4Hwarang_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/drama/the-devil-is-a-handsome-man/list?title_no=1311",
@@ -6912,6 +8406,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20190521_241/1558396776650oQF6B_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/supernatural/soul-on-hold/list?title_no=1701",
+    "title": "Soul on Hold",
+    "genre": "Supernatural",
+    "views_count": "10.5M",
+    "subscribed_count": "266,175",
+    "rating": "9.63",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_3/1611703204413OdMkA_JPEG/1SoH-Mobile-Landing-Page.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/sports/no-scope/list?title_no=1572",
     "title": "No Scope",
     "genre": "Sports",
@@ -6939,6 +8442,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20170406_116/1491440344491fNY2v_JPEG/M_details.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/of-dark-lords-and-cabbages/list?title_no=2750",
+    "title": "Of Dark Lords and Cabbages",
+    "genre": "Romance",
+    "views_count": "13.6M",
+    "subscribed_count": "413,717",
+    "rating": "9.46",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211105_99/1636065657106w6UF3_JPEG/1ODLAC_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/comedy/meow-rangers/list?title_no=3273",
     "title": "Meow Rangers",
     "genre": "Comedy",
@@ -6946,6 +8458,15 @@
     "subscribed_count": "80,078",
     "rating": "9.33",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210827_182/1630026997565fSTOP_JPEG/6Meow+Rangers_Launch_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/night-owls-and-summer-skies/list?title_no=4747",
+    "title": "Night Owls & Summer Skies",
+    "genre": "Romance",
+    "views_count": "8.8M",
+    "subscribed_count": "374,807",
+    "rating": "9.67",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220920_118/1663614015341mmiVL_JPEG/1NightOwls26SummerSkies_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/deadlife/list?title_no=3922",
@@ -6957,6 +8478,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220217_267/1645041431735Iuuu3_JPEG/8DeadLife_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/slice-of-life/a-deadbeats-meal/list?title_no=3910",
+    "title": "A DeadbEAT's Meal",
+    "genre": "Slice of life",
+    "views_count": "2.6M",
+    "subscribed_count": "111,537",
+    "rating": "9.16",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220208_200/1644267824261vzCAg_JPEG/8ADeadbEATsMeal_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/ant/list?title_no=3482",
+    "title": "ANT",
+    "genre": "Thriller",
+    "views_count": "1.8M",
+    "subscribed_count": "79,219",
+    "rating": "9.16",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220406_277/1649202970062QjBKg_JPEG/1Ant_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/blood-reverie/list?title_no=2806",
     "title": "Blood Reverie",
     "genre": "Romance",
@@ -6964,6 +8503,42 @@
     "subscribed_count": "470,272",
     "rating": "9.28",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220518_288/1652823465584hpH2i_JPEG/7BloodReverie_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/red-hood-outlaws/list?title_no=4603",
+    "title": "Red Hood: Outlaws",
+    "genre": "Action",
+    "views_count": "3.9M",
+    "subscribed_count": "273,852",
+    "rating": "9.41",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220813_142/1660345713490WBO0O_JPEG/3RedHood_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/there-must-be-happy-endings/list?title_no=3065",
+    "title": "There Must Be Happy Endings",
+    "genre": "Romance",
+    "views_count": "37M",
+    "subscribed_count": "642,383",
+    "rating": "9.66",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210709_199/1625782966794LhSGD_JPEG/0ThereMustBeHappyEndings_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/viral-hit/list?title_no=2268",
+    "title": "Viral Hit",
+    "genre": "Action",
+    "views_count": "73.8M",
+    "subscribed_count": "814,085",
+    "rating": "9.83",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20201009_49/1602189932687SKITi_JPEG/904_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/go-away-romeo/list?title_no=5066",
+    "title": "Go Away Romeo",
+    "genre": "Romance",
+    "views_count": "3.1M",
+    "subscribed_count": "406,228",
+    "rating": "9.30",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230110_243/1673303103137raEyq_JPEG/2GAR_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/thriller/judge-and-executioner/list?title_no=4941",
@@ -6975,13 +8550,22 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20221214_41/16709838208557NM91_JPEG/7JudgeAndExecutioner_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/dating-with-a-tail/list?title_no=1263",
+    "title": "Dating With a Tail",
+    "genre": "Romance",
+    "views_count": "23.5M",
+    "subscribed_count": "549,162",
+    "rating": "9.38",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_221/1611697667361CWzNd_JPEG/004_EC9E91ED9288EC8381EC84B8_mobile+28329.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/comedy/love-advice/list?title_no=1498",
     "title": "Love Advice from the Great Duke of Hell",
     "genre": "Comedy",
     "views_count": "126M",
     "subscribed_count": "1.3M",
     "rating": "9.84",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_227/1611701885983dab5R_JPEG/3Love-Advice-Mobile-Landing-Page.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/atelier-on-the-sunflower-hill/list?title_no=2883",
@@ -6991,6 +8575,33 @@
     "subscribed_count": "158,697",
     "rating": "9.28",
     "img_url": "https://swebtoon-phinf.pstatic.net/20211106_94/1636147658381FuEpB_JPEG/9Atelier+on+the+Sunflower+Hill_Launch_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/be-my-villain/list?title_no=2728",
+    "title": "Be My Villain",
+    "genre": "Romance",
+    "views_count": "25.3M",
+    "subscribed_count": "548,961",
+    "rating": "9.61",
+    "img_url": null
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/little-lady-mint/list?title_no=4441",
+    "title": "Little Lady Mint",
+    "genre": "Fantasy",
+    "views_count": "5.1M",
+    "subscribed_count": "175,066",
+    "rating": "8.18",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221116_157/1668561661272eRfkv_JPEG/4LittleLadyMint_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/the-spark-in-your-eyes/list?title_no=3210",
+    "title": "The Spark in Your Eyes",
+    "genre": "Fantasy",
+    "views_count": "7.2M",
+    "subscribed_count": "248,442",
+    "rating": "9.70",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210818_83/1629229124243F6Qki_JPEG/9TheSparkInYourEyes_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/slice-of-life/boo-its-sex/list?title_no=1413",
@@ -7038,6 +8649,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210414_162/1618357203653mfeI7_JPEG/9IfAIRuledtheWorld_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/my-guardian-demon/list?title_no=4321",
+    "title": "My Guardian Demon",
+    "genre": "Romance",
+    "views_count": "1M",
+    "subscribed_count": "54,103",
+    "rating": "5.80",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221130_121/1669785783950iRWvw_JPEG/4MyGuardianDemon_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/to-you-who-doesnt-love-me/list?title_no=4688",
+    "title": "To You Who Doesn'tLove Me",
+    "genre": "Fantasy",
+    "views_count": "1.4M",
+    "subscribed_count": "121,965",
+    "rating": "7.06",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221122_4/1669107146914BxOLV_JPEG/4ToYouWhoDoesn_tLoveMe_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/drama/daytime-star/list?title_no=3908",
     "title": "Daytime Star",
     "genre": "Drama",
@@ -7056,6 +8685,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20170831_134/1504115707127zHzA3_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/coffin-jackson/list?title_no=4449",
+    "title": "Coffin Jackson",
+    "genre": "Drama",
+    "views_count": "772,306",
+    "subscribed_count": "52,001",
+    "rating": "9.72",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220701_115/1656621784277u7Pzh_JPEG/2CoffinJackson_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/comedy/smity-and-majesty/list?title_no=2706",
     "title": "Smity and Majesty",
     "genre": "Comedy",
@@ -7072,6 +8710,15 @@
     "subscribed_count": "740,664",
     "rating": "9.61",
     "img_url": "https://swebtoon-phinf.pstatic.net/20200626_107/1593111138089n3Gzr_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/super-hero/heroine-chic/list?title_no=561",
+    "title": "Heroine Chic",
+    "genre": "Superhero",
+    "views_count": "24.7M",
+    "subscribed_count": "274,530",
+    "rating": "8.92",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20151016_244/1444982580826TTQHb_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/sports/double-click/list?title_no=3669",
@@ -7101,6 +8748,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20190521_268/1558395616161fUb8H_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/a-heart-for-the-emperor/list?title_no=4269",
+    "title": "A Heart for the Emperor",
+    "genre": "Romance",
+    "views_count": "4.8M",
+    "subscribed_count": "189,006",
+    "rating": "6.90",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220504_150/1651617343826pLQMd_JPEG/3HeartforEmperor_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/thriller/hell-is-other-people/list?title_no=3176",
     "title": "Hell is Other People",
     "genre": "Thriller",
@@ -7117,6 +8773,15 @@
     "subscribed_count": "325,504",
     "rating": "9.40",
     "img_url": "https://swebtoon-phinf.pstatic.net/20190131_226/15488963495255X2Me_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/moonrise/list?title_no=4429",
+    "title": "MoonRise",
+    "genre": "Action",
+    "views_count": "192,287",
+    "subscribed_count": "38,290",
+    "rating": "8.09",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230120_148/1674177148084ODYsw_JPEG/7MoonRise_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/lmly/list?title_no=2700",
@@ -7144,6 +8809,15 @@
     "subscribed_count": "18,392",
     "rating": "7.11",
     "img_url": "https://swebtoon-phinf.pstatic.net/20190410_144/15548449876925JJVu_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/sf/the-last-dimension/list?title_no=3174",
+    "title": "The Last Dimension",
+    "genre": "Sci-fi",
+    "views_count": "3.7M",
+    "subscribed_count": "133,772",
+    "rating": "9.77",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220308_203/1646676937319r3Ebl_JPEG/0TheLastDimension_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/comedy/meow-man/list?title_no=1677",
@@ -7191,6 +8865,33 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20171216_138/1513394299433jQsM0_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/slice-of-life/vampire-husband/list?title_no=4841",
+    "title": "Vampire Husband",
+    "genre": "Slice of life",
+    "views_count": "6.5M",
+    "subscribed_count": "239,450",
+    "rating": "9.57",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220227_219/1645920327212jrqfK_PNG/thumbnail.jpg"
+  },
+  {
+    "url": "https://www.webtoons.com/en/comedy/ode-to-our-youth/list?title_no=3898",
+    "title": "Ode to Our Youth",
+    "genre": "Comedy",
+    "views_count": "738,556",
+    "subscribed_count": "37,010",
+    "rating": "9.36",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220307_16/1646635163447SC5jJ_JPEG/7OdeToOurYouth_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/the-strongest-florist/list?title_no=2507",
+    "title": "The Strongest Florist",
+    "genre": "Action",
+    "views_count": "30M",
+    "subscribed_count": "515,803",
+    "rating": "9.80",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210310_147/1615338742109vFiwz_JPEG/9The+Strongest+Florist_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/supernatural/eros-conquers-all/list?title_no=3312",
     "title": "Eros Conquers All",
     "genre": "Supernatural",
@@ -7209,6 +8910,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220526_207/1653500104970mcEID_JPEG/3BatmanFamilyAdven_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/slice-of-life/all-that-we-hope-to-be/list?title_no=470",
+    "title": "All That We Hope to Be",
+    "genre": "Slice of life",
+    "views_count": "2.3M",
+    "subscribed_count": "62,699",
+    "rating": "9.53",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20150508_171/1431075425785zu90d_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/thriller/night-of-silence/list?title_no=3765",
     "title": "Night of Silence",
     "genre": "Thriller",
@@ -7216,6 +8926,15 @@
     "subscribed_count": "72,571",
     "rating": "9.20",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220119_264/16425589707798b9gl_JPEG/6NightofSilence_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/mystery/betwixt/list?title_no=2962",
+    "title": "Betwixt",
+    "genre": "Mystery",
+    "views_count": "1.2M",
+    "subscribed_count": "84,094",
+    "rating": "9.57",
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/action/the-gamer/list?title_no=88",
@@ -7236,6 +8955,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210729_239/16275192187079gR2V_JPEG/4TheFabledWarrior_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/the-first-hunter/list?title_no=3040",
+    "title": "The First Hunter",
+    "genre": "Action",
+    "views_count": "8.1M",
+    "subscribed_count": "218,874",
+    "rating": "9.48",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210707_53/1625620448619OB5Vm_JPEG/9SeriesLaunch_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/men-of-the-harem/list?title_no=2443",
     "title": "Men of the Harem",
     "genre": "Fantasy",
@@ -7252,6 +8980,15 @@
     "subscribed_count": "210,372",
     "rating": "9.38",
     "img_url": "https://swebtoon-phinf.pstatic.net/20140702_251/1404270062631jz0Tb_JPEG/31_EC82ACEC9DB4EB939CED82A5.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/revenge-love/list?title_no=4795",
+    "title": "Revenge Love",
+    "genre": "Romance",
+    "views_count": "588,721",
+    "subscribed_count": "84,043",
+    "rating": "8.79",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221223_164/1671733130132Ha3hP_JPEG/7Revenge_Love_Launch_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/your-throne/list?title_no=2009",
@@ -7290,6 +9027,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20150513_208/1431524798471IWGRa_JPEG/details_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/comedy/not-so-shoujo-love-story/list?title_no=2189",
+    "title": "Not So Shoujo Love Story",
+    "genre": "Comedy",
+    "views_count": "35.4M",
+    "subscribed_count": "742,953",
+    "rating": "9.73",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20200903_218/1599092998634ALfFy_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/zatanna-and-the-ripper/list?title_no=4518",
     "title": "Zatanna & the Ripper",
     "genre": "Fantasy",
@@ -7308,6 +9054,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20211215_167/1639531733981suhJa_JPEG/0RewritingExtinction_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/hectopascal/list?title_no=5033",
+    "title": "Hectopascal",
+    "genre": "Action",
+    "views_count": "927,515",
+    "subscribed_count": "153,707",
+    "rating": "9.77",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230106_13/1672983784367P9Opc_JPEG/3Hectopascal_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/phone-addict/list?title_no=4187",
     "title": "Phone Addict",
     "genre": "Romance",
@@ -7315,6 +9070,42 @@
     "subscribed_count": "202,303",
     "rating": "9.54",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220603_66/1654213773115QPSnp_JPEG/9Phone+Addict_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/secretary-out-of-order/list?title_no=3790",
+    "title": "Secretary Out-of-Order",
+    "genre": "Romance",
+    "views_count": "24M",
+    "subscribed_count": "569,073",
+    "rating": "9.31",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220119_118/1642559106743XCYq5_JPEG/2Secretary+Out-of-Order_Launch_mobile_landingpage+copy.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/extraordinary-attorney-woo/list?title_no=4867",
+    "title": "Extraordinary Attorney Woo",
+    "genre": "Drama",
+    "views_count": "1.5M",
+    "subscribed_count": "217,934",
+    "rating": "9.72",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221215_120/1671049412754XyFHO_JPEG/9Extraordinary_Attorney_Woo_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/comedy/rooftops-and-roommates/list?title_no=2576",
+    "title": "Rooftops & Roommates",
+    "genre": "Comedy",
+    "views_count": "36.9M",
+    "subscribed_count": "461,144",
+    "rating": "9.52",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220922_77/1663796181818O98mW_JPEG/8RooftopsnRoommates_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/for-my-derelict-favorite/list?title_no=4571",
+    "title": "For My Derelict Favorite",
+    "genre": "Romance",
+    "views_count": "8.6M",
+    "subscribed_count": "416,756",
+    "rating": "9.76",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220727_82/1658884834165KsOcW_JPEG/3ForMyDerelictFavorite_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/supernatural/clinic-of-horrors/list?title_no=3414",
@@ -7398,6 +9189,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220730_75/1659135955141M1fSb_JPEG/4GhostontheRoof_landingpage_mobile_.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/corpse-knight-gunther/list?title_no=5032",
+    "title": "Corpse Knight Gunther",
+    "genre": "Fantasy",
+    "views_count": "465,087",
+    "subscribed_count": "92,318",
+    "rating": "9.57",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230118_224/1673985362013hsILq_JPEG/3CorpseKnightGunther_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/the-wildlands/list?title_no=2831",
     "title": "The Wildlands",
     "genre": "Fantasy",
@@ -7405,6 +9205,15 @@
     "subscribed_count": "72,339",
     "rating": "9.41",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220405_131/16491004930356ux2t_JPEG/8TheWildlands_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/answer-me-my-prince/list?title_no=4672",
+    "title": "Answer Me, My Prince",
+    "genre": "Romance",
+    "views_count": "1.8M",
+    "subscribed_count": "106,219",
+    "rating": "9.19",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221123_289/1669181507856iqfLq_JPEG/0AnswerMeMyPrince_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/romance/date-first-love-later/list?title_no=3345",
@@ -7432,6 +9241,15 @@
     "subscribed_count": "119,654",
     "rating": "9.59",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220607_148/1654582004927lztmY_JPEG/7NanoMachine_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/trapped/list?title_no=4635",
+    "title": "Trapped",
+    "genre": "Thriller",
+    "views_count": "6.9M",
+    "subscribed_count": "240,823",
+    "rating": "9.78",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220910_270/1662755370252fIbrG_JPEG/0Trapped_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/ghosts-over-wild-flowers/list?title_no=718",
@@ -7470,6 +9288,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20190611_292/1560198583239HFoca_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/mythic-item-obtained/list?title_no=4582",
+    "title": "Mythic Item Obtained",
+    "genre": "Fantasy",
+    "views_count": "6.1M",
+    "subscribed_count": "305,603",
+    "rating": "9.62",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220815_166/1660559691948Jh6WJ_JPEG/2MythicItemObtained_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/cinnamonroll/list?title_no=2226",
     "title": "CinnamonRoll",
     "genre": "Romance",
@@ -7479,6 +9306,33 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20200911_180/1599761243731nqrU5_JPEG/804_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/sf/housekeeper/list?title_no=3479",
+    "title": "Housekeeper",
+    "genre": "Sci-fi",
+    "views_count": "3.1M",
+    "subscribed_count": "132,151",
+    "rating": "9.69",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220429_245/1651193017193ALh1f_JPEG/2HouseKeeper_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/philia-rose-the-prophecy-of-the-crown-of-thorns/list?title_no=3900",
+    "title": "Philia Ros\u00e9: The Prophecy of the Crown of Thorns",
+    "genre": "Fantasy",
+    "views_count": "5.8M",
+    "subscribed_count": "183,236",
+    "rating": "9.77",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220428_77/1651080099701VUVbh_JPEG/9PhiliaRose_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/blessed/list?title_no=1193",
+    "title": "#Blessed",
+    "genre": "Drama",
+    "views_count": "21.6M",
+    "subscribed_count": "438,863",
+    "rating": "9.17",
+    "img_url": null
+  },
+  {
     "url": "https://www.webtoons.com/en/slice-of-life/lars/list?title_no=358",
     "title": "Lars",
     "genre": "Slice of life",
@@ -7486,6 +9340,15 @@
     "subscribed_count": "46,473",
     "rating": "8.54",
     "img_url": "https://swebtoon-phinf.pstatic.net/20211022_99/16349144430402Es34_JPEG/thumbnail.jpg"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/the-greatest-estate-developer/list?title_no=3596",
+    "title": "The Greatest Estate Developer",
+    "genre": "Fantasy",
+    "views_count": "17.6M",
+    "subscribed_count": "320,620",
+    "rating": "9.90",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211116_1/1637004313334y7KiF_JPEG/8The+Greatest+Estate+Developer_Launch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/dragnarok/list?title_no=1018",
@@ -7506,6 +9369,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20170306_193/14887668544984lhuh_JPEG/M_details.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/can-i-take-it-back/list?title_no=4355",
+    "title": "Can I Take It Back?",
+    "genre": "Romance",
+    "views_count": "9M",
+    "subscribed_count": "314,059",
+    "rating": "9.67",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220610_41/1654802653575P3aaw_JPEG/4CanITakeItBack_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/super-hero/backchannel/list?title_no=1456",
     "title": "Backchannel",
     "genre": "Superhero",
@@ -7521,7 +9393,7 @@
     "views_count": "2.4M",
     "subscribed_count": "70,808",
     "rating": "9.18",
-    "img_url": "https://swebtoon-phinf.pstatic.net/20210916_111/1631757082957G8Vxs_JPEG/4Lilac20025_mobile_landingpage.jpg?type=crop540_540"
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/drama/mayas-world/list?title_no=3200",
@@ -7560,6 +9432,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20211204_151/1638583195242I4x8Y_JPEG/2BladesofFurry_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/she-would-never-know/list?title_no=2508",
+    "title": "She Would Never Know",
+    "genre": "Romance",
+    "views_count": "13.8M",
+    "subscribed_count": "433,490",
+    "rating": "9.10",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210218_100/1613617133300a18CO_JPEG/3SheWouldNeverKnow_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/letsplay/list?title_no=1218",
     "title": "Let's Play",
     "genre": "Romance",
@@ -7587,6 +9468,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20141124_8/1416791872459z6Uj9_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/comedy/principals-livestream/list?title_no=4261",
+    "title": "Principal's Livestream",
+    "genre": "Comedy",
+    "views_count": "601,845",
+    "subscribed_count": "37,705",
+    "rating": "9.45",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220614_276/1655189005190jmTde_JPEG/4PrincipalsLivestream_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/sports/the-boxer/list?title_no=2027",
     "title": "The Boxer",
     "genre": "Sports",
@@ -7594,6 +9484,15 @@
     "subscribed_count": "1.5M",
     "rating": "9.86",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210410_35/16180079370625ksUI_JPEG/004_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/the-kiss-bet/list?title_no=1617",
+    "title": "The Kiss Bet",
+    "genre": "Romance",
+    "views_count": "125M",
+    "subscribed_count": "1.5M",
+    "rating": "9.69",
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/dark-moon-the-grey-city/list?title_no=4168",
@@ -7632,6 +9531,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210127_172/1611695894885w7sQB_JPEG/804_EC9E91ED9288EC8381EC84B8_mobile+28429.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/fantasy/night-of-shadows/list?title_no=5044",
+    "title": "Night of Shadows",
+    "genre": "Fantasy",
+    "views_count": "917,911",
+    "subscribed_count": "104,289",
+    "rating": "9.55",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230117_291/167390097470047LoB_JPEG/4NoS_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/sf/denma/list?title_no=921",
     "title": "Denma",
     "genre": "Sci-fi",
@@ -7639,6 +9547,15 @@
     "subscribed_count": "83,009",
     "rating": "8.95",
     "img_url": "https://swebtoon-phinf.pstatic.net/20170106_68/1483691370410fPj3J_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/aza/list?title_no=3994",
+    "title": "Aza",
+    "genre": "Fantasy",
+    "views_count": "5M",
+    "subscribed_count": "257,655",
+    "rating": "9.72",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220309_288/1646789801252ioFDe_JPEG/5Aza_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/fantasy/warrior-executioner/list?title_no=3966",
@@ -7659,6 +9576,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20190713_241/1562973956224v3OXc_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/jumping-over/list?title_no=3238",
+    "title": "Jumping Over",
+    "genre": "Romance",
+    "views_count": "3.6M",
+    "subscribed_count": "70,220",
+    "rating": "8.99",
+    "img_url": null
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/the-dukes-teddy-bear/list?title_no=5045",
     "title": "The Duke's Teddy Bear",
     "genre": "Romance",
@@ -7666,6 +9592,15 @@
     "subscribed_count": "135,348",
     "rating": "8.63",
     "img_url": "https://swebtoon-phinf.pstatic.net/20230120_106/1674201520247dNWyh_JPEG/4The_Duke_s_Teddy_Bear_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/thriller/judge-and-executioner/list?title_no=4941",
+    "title": "Judge and Executioner",
+    "genre": "Thriller",
+    "views_count": "619,453",
+    "subscribed_count": "105,133",
+    "rating": "9.65",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221214_41/16709838208557NM91_JPEG/7JudgeAndExecutioner_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/super-hero/the-fever-king/list?title_no=1659",
@@ -7677,6 +9612,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20190628_78/1561654919661NBQGl_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile+28429.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/super-hero/eternals-500-year-war/list?title_no=3916",
+    "title": "Eternals: The 500 Year War",
+    "genre": "Superhero",
+    "views_count": "1M",
+    "subscribed_count": "170,036",
+    "rating": "7.36",
+    "img_url": null
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/god-tribe/list?title_no=4352",
     "title": "God Tribe",
     "genre": "Fantasy",
@@ -7684,6 +9628,15 @@
     "subscribed_count": "117,825",
     "rating": "9.54",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220603_113/1654211284859GIcl8_JPEG/8GodTribe_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/comedy/smity-and-majesty/list?title_no=2706",
+    "title": "Smity and Majesty",
+    "genre": "Comedy",
+    "views_count": "7.6M",
+    "subscribed_count": "145,465",
+    "rating": "9.52",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210609_231/1623203225694SQ9m2_JPEG/1SmityandMajesty_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/one-thousand/list?title_no=1217",
@@ -7722,6 +9675,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210917_227/1631834024578Mqtsa_JPEG/5My+Irresistible+Ex_Launch_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/phone-addict/list?title_no=4187",
+    "title": "Phone Addict",
+    "genre": "Romance",
+    "views_count": "5.3M",
+    "subscribed_count": "202,300",
+    "rating": "9.54",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220603_66/1654213773115QPSnp_JPEG/9Phone+Addict_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/sf/machine-uprising/list?title_no=4152",
     "title": "Machine Uprising",
     "genre": "Sci-fi",
@@ -7729,6 +9691,24 @@
     "subscribed_count": "37,144",
     "rating": "9.49",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220429_217/1651218210229w1zkk_JPEG/1MachineUprising_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/flawed-almighty/list?title_no=3577",
+    "title": "Flawed Almighty",
+    "genre": "Supernatural",
+    "views_count": "10.1M",
+    "subscribed_count": "223,770",
+    "rating": "9.62",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211030_287/1635528615836MTnjy_JPEG/1FlawedAlmighty_Launch_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/lmly/list?title_no=2700",
+    "title": "LMLY",
+    "genre": "Romance",
+    "views_count": "8.7M",
+    "subscribed_count": "472,472",
+    "rating": "9.50",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211016_284/1634320871056mAEnB_JPEG/4LMLY_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/comedy/romance-punch/list?title_no=3360",
@@ -7747,6 +9727,15 @@
     "subscribed_count": "1.2M",
     "rating": "9.65",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220827_124/1661543792576nmBry_JPEG/0Marry+My+Husband_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/zero-game/list?title_no=1704",
+    "title": "Zero Game",
+    "genre": "Fantasy",
+    "views_count": "25.3M",
+    "subscribed_count": "528,892",
+    "rating": "9.72",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210209_122/1612838209086stc6U_JPEG/5ZeroGame_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/action/gosu/list?title_no=1099",
@@ -7785,6 +9774,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210414_41/1618357918050GXOFI_JPEG/5TheWorldisMoneyandPower_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/loaf-app/list?title_no=4213",
+    "title": "Loaf App",
+    "genre": "Drama",
+    "views_count": "1.7M",
+    "subscribed_count": "122,897",
+    "rating": "8.63",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220910_11/1662751128911OTGrb_JPEG/1Loaf+App_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/comedy/cat-vs-dog/list?title_no=2961",
     "title": "Cat vs. Dog",
     "genre": "Comedy",
@@ -7794,6 +9792,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20211202_159/163839919114313MG1_JPEG/7CATvsDog_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/the-uncommons/list?title_no=4520",
+    "title": "The UnCommons",
+    "genre": "Action",
+    "views_count": "232,086",
+    "subscribed_count": "56,147",
+    "rating": "9.14",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230119_163/16740671167591bdkp_JPEG/8TheUnCommons_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/cloud-walker/list?title_no=2730",
     "title": "Cloud Walker",
     "genre": "Action",
@@ -7801,6 +9808,15 @@
     "subscribed_count": "245,644",
     "rating": "9.39",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220119_21/16425579122013mnnd_JPEG/8CloudWalker_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/sf/eggnoid/list?title_no=1229",
+    "title": "Eggnoid",
+    "genre": "Sci-fi",
+    "views_count": "206.9M",
+    "subscribed_count": "1.4M",
+    "rating": "9.65",
+    "img_url": null
   },
   {
     "url": "https://www.webtoons.com/en/action/limit-breaker/list?title_no=4176",
@@ -7830,6 +9846,33 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20210707_215/1625603663180f3xn6_JPEG/6CARL_mobile_landingpage.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/my-irresistible-ex/list?title_no=3348",
+    "title": "My Irresistible Ex",
+    "genre": "Romance",
+    "views_count": "7.7M",
+    "subscribed_count": "265,869",
+    "rating": "7.73",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210917_227/1631834024578Mqtsa_JPEG/5My+Irresistible+Ex_Launch_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/sf/if-ai-ruled-the-world/list?title_no=2605",
+    "title": "If AI Ruled the World",
+    "genre": "Sci-fi",
+    "views_count": "4.5M",
+    "subscribed_count": "171,078",
+    "rating": "9.72",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210414_162/1618357203653mfeI7_JPEG/9IfAIRuledtheWorld_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/comedy/99-reinforced-wooden-stick/list?title_no=4286",
+    "title": "+99 ReinforcedWooden Stick",
+    "genre": "Comedy",
+    "views_count": "14.4M",
+    "subscribed_count": "416,074",
+    "rating": "9.33",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220608_170/1654640078980huLYR_JPEG/199ReinforcedWoodenStick_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/lily-crown/list?title_no=2751",
     "title": "Lily Crown",
     "genre": "Action",
@@ -7857,6 +9900,15 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20191105_141/1572898115411xGw5H_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/drama/acception/list?title_no=1513",
+    "title": "Acception",
+    "genre": "Drama",
+    "views_count": "153M",
+    "subscribed_count": "861,731",
+    "rating": "8.99",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20190110_282/1547089402932h2jET_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/romance/reunion/list?title_no=3416",
     "title": "Reunion",
     "genre": "Romance",
@@ -7864,6 +9916,51 @@
     "subscribed_count": "921,254",
     "rating": "9.72",
     "img_url": "https://swebtoon-phinf.pstatic.net/20220311_21/1646942392162KQtFc_JPEG/8Reunion_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/mystery/the-wolfman-of-wulvershire/list?title_no=1784",
+    "title": "The Wolfman of Wulvershire",
+    "genre": "Mystery",
+    "views_count": "15.9M",
+    "subscribed_count": "360,976",
+    "rating": "9.54",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210127_38/1611706093913ScdxO_JPEG/7Wolfman-of-Wulvershire-Mobile-Landing-Page.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/murim-rpg-simulation/list?title_no=3779",
+    "title": "Murim RPG Simulation",
+    "genre": "Action",
+    "views_count": "8.5M",
+    "subscribed_count": "215,854",
+    "rating": "9.65",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220119_82/1642558258257EQ71N_JPEG/7MurimRPGSim_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/dreaming-freedom/list?title_no=4180",
+    "title": "Dreaming Freedom",
+    "genre": "Drama",
+    "views_count": "10.5M",
+    "subscribed_count": "432,991",
+    "rating": "9.74",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220503_121/1651532227458vlQ3Y_JPEG/5Dreaming+Freedom_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/the-runway/list?title_no=3691",
+    "title": "The RUNWAY",
+    "genre": "Romance",
+    "views_count": "37.4M",
+    "subscribed_count": "778,820",
+    "rating": "9.23",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211210_52/1639120392724zmlq1_JPEG/7TheRunway_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/webtoon-greenlight/list?title_no=1988",
+    "title": "WEBTOON GREENLiGHT",
+    "genre": "Fantasy",
+    "views_count": "16.3M",
+    "subscribed_count": "740,663",
+    "rating": "9.61",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20200626_107/1593111138089n3Gzr_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/sports/ecstasy-hearts/list?title_no=604",
@@ -7884,6 +9981,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20171013_191/1507836840981I2wx2_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/supernatural/shard/list?title_no=960",
+    "title": "Shard",
+    "genre": "Supernatural",
+    "views_count": "13.1M",
+    "subscribed_count": "207,324",
+    "rating": "9.32",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20170303_109/1488511174562tc5B0_JPEG/M_details.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/the-male-leads-girl-friend/list?title_no=3412",
+    "title": "The Male Lead's Girl Friend",
+    "genre": "Romance",
+    "views_count": "15.5M",
+    "subscribed_count": "356,342",
+    "rating": "9.46",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20210911_142/16313051714484Bbtx_JPEG/0TheMaleLeadsGirlfriend_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154",
     "title": "Omniscient Reader",
     "genre": "Action",
@@ -7891,6 +10006,15 @@
     "subscribed_count": "2.5M",
     "rating": "9.90",
     "img_url": "https://swebtoon-phinf.pstatic.net/20200813_68/1597264242338akqa2_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/action/the-world-after-the-fall/list?title_no=4011",
+    "title": "The World After the Fall",
+    "genre": "Action",
+    "views_count": "17.8M",
+    "subscribed_count": "652,503",
+    "rating": "9.73",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220419_243/1650306588210IQooB_JPEG/6TheWorldAftertheFall_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/super-hero/supersonic-girl/list?title_no=633",
@@ -7909,6 +10033,15 @@
     "subscribed_count": "146,294",
     "rating": "9.64",
     "img_url": "https://swebtoon-phinf.pstatic.net/20160218_206/1455774323529j8L6O_JPEG/EC9E91ED9288EC8381EC84B8_mobile_img.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/daytime-star/list?title_no=3908",
+    "title": "Daytime Star",
+    "genre": "Drama",
+    "views_count": "21.8M",
+    "subscribed_count": "470,890",
+    "rating": "9.85",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220207_259/1644211022980waShL_JPEG/2DaytimeStar_landingpage_mobile.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/drama/asterion/list?title_no=2471",
@@ -7956,6 +10089,24 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20221014_109/16657283490939w4HH_JPEG/2Zomgan_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/action/zomgan/list?title_no=4785",
+    "title": "ZOMGAN",
+    "genre": "Action",
+    "views_count": "3.6M",
+    "subscribed_count": "319,947",
+    "rating": "9.60",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20221014_109/16657283490939w4HH_JPEG/2Zomgan_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/little-rain/list?title_no=2612",
+    "title": "Little Rain",
+    "genre": "Romance",
+    "views_count": "5.7M",
+    "subscribed_count": "375,119",
+    "rating": "9.83",
+    "img_url": null
+  },
+  {
     "url": "https://www.webtoons.com/en/fantasy/lady-knight/list?title_no=2727",
     "title": "Lady Knight",
     "genre": "Fantasy",
@@ -7974,6 +10125,42 @@
     "img_url": "https://swebtoon-phinf.pstatic.net/20220208_52/1644288517252td8TW_JPEG/5Miez_Launch_landingpage_mobile.jpg?type=crop540_540"
   },
   {
+    "url": "https://www.webtoons.com/en/romance/the-dukes-teddy-bear/list?title_no=5045",
+    "title": "The Duke's Teddy Bear",
+    "genre": "Romance",
+    "views_count": "1.1M",
+    "subscribed_count": "135,365",
+    "rating": "8.63",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20230120_106/1674201520247dNWyh_JPEG/4The_Duke_s_Teddy_Bear_Launch_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/my-reason-to-die/list?title_no=3993",
+    "title": "My Reason to Die",
+    "genre": "Romance",
+    "views_count": "16.7M",
+    "subscribed_count": "521,823",
+    "rating": "9.83",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220428_251/1651120074151Y1L9x_JPEG/4My+Reason+to+Die_Launch__landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/fantasy/hooky/list?title_no=425",
+    "title": "Hooky",
+    "genre": "Fantasy",
+    "views_count": "103.5M",
+    "subscribed_count": "920,450",
+    "rating": "9.81",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20180719_267/1531962800774J0Hrr_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/reunion/list?title_no=3416",
+    "title": "Reunion",
+    "genre": "Romance",
+    "views_count": "30M",
+    "subscribed_count": "921,253",
+    "rating": "9.72",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20220311_21/1646942392162KQtFc_JPEG/8Reunion_landingpage_mobile.jpg?type=crop540_540"
+  },
+  {
     "url": "https://www.webtoons.com/en/action/infinite-leveling-murim/list?title_no=2676",
     "title": "Infinite Leveling: Murim",
     "genre": "Action",
@@ -7981,6 +10168,15 @@
     "subscribed_count": "266,764",
     "rating": "9.62",
     "img_url": "https://swebtoon-phinf.pstatic.net/20210518_69/1621294881704jILNb_JPEG/9InfiniteLevelingMurim_mobile_landingpage.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/drama/wished-you-were-dead/list?title_no=3591",
+    "title": "Wished You Were Dead",
+    "genre": "Drama",
+    "views_count": "36.2M",
+    "subscribed_count": "797,966",
+    "rating": "9.11",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20211111_151/1636569492591udFgH_JPEG/6WishedYouWereDead_mobile_landingpage.jpg?type=crop540_540"
   },
   {
     "url": "https://www.webtoons.com/en/supernatural/of-swamp-and-sea/list?title_no=2736",
@@ -7999,5 +10195,23 @@
     "subscribed_count": "1.8M",
     "rating": "9.39",
     "img_url": "https://swebtoon-phinf.pstatic.net/20170116_300/1484538473038H7xLW_JPEG/thumbnail.jpg"
+  },
+  {
+    "url": "https://www.webtoons.com/en/supernatural/faust/list?title_no=522",
+    "title": "Faust",
+    "genre": "Supernatural",
+    "views_count": "9M",
+    "subscribed_count": "84,910",
+    "rating": "8.00",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20150807_147/1438932465366IwJL0_JPEG/_EB9AA1EB80AB_E293A4EABCB9__EB84BD_EB90A3EB80AB_EC86BDE.jpg?type=crop540_540"
+  },
+  {
+    "url": "https://www.webtoons.com/en/romance/lore-olympus/list?title_no=1320",
+    "title": "Lore Olympus",
+    "genre": "Romance",
+    "views_count": "1.2B",
+    "subscribed_count": "6.2M",
+    "rating": "9.67",
+    "img_url": "https://swebtoon-phinf.pstatic.net/20171006_186/1507248172884XXB7G_JPEG/thumbnail.jpg"
   }
 ]
