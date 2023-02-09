@@ -1,3 +1,3 @@
 # webtoon-rating-scraper
 
-1746 webtoons scraped
+over 888 webtoons scraped
